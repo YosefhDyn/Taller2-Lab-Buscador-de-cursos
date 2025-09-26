@@ -22,12 +22,12 @@ Requerimientos
 Python 3.x: Asegúrate de tener instalada la versión correcta de Python.
 Bibliotecas de Python necesarias:
 
--requests
--BeautifulSoup4
--html5lib
--pandas (para el manejo de datos en el archivo CSV)
--selenium
--archivos json
+1. requests
+2. BeautifulSoup4
+3. html5lib
+4. pandas (para el manejo de datos en el archivo CSV)
+5. selenium
+6. archivos json
 
 Puedes instalar estas bibliotecas usando el siguiente comando:
 
