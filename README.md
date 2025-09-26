@@ -2,6 +2,8 @@
 README - Laboratorio 2: Motor de Búsqueda de Cursos
 
 Hecho por: Julio Useche Llanos y Yosefh Steven Peña Rodriguez
+Presentacion del laboratorio
+https://www.canva.com/design/DAG0CmQsEDQ/FR9nWH7ejxxws8FVROTH4A/edit?utm_content=DAG0CmQsEDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Descripción del Taller
 Este taller tiene como objetivo desarrollar un motor de búsqueda de cursos que se conecta al catálogo universitario de la Universidad Javeriana a través de un rastreador web. El motor permite rastrear páginas, construir un índice de cursos y realizar búsquedas por relevancia de acuerdo con los intereses del usuario. Se incluyen funciones para comparar cursos y retornar aquellos que mejor se ajusten a los intereses de los usuarios.
