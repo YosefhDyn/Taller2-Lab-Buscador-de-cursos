@@ -10,135 +10,135 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 import time
 
-# Lista de palabras clave no deseadas que queremos excluir del índice
-STOPWORDS = {"tipo", "nivel", "facultades", "modalidad", "duración", "acceso", "curso", "universidad", "educación", "estudios", "artes", "salud", "informática"}
+# lista de palabras clave no deseadas que queremos excluir del indice :|
+STOPWORDS = {"tipo", "nivel", "facultades", "modalidad", "duracion", "acceso", "curso", "universidad", "educacion", "estudios", "artes", "salud", "informatica"}
 
-# Función para rastrear las páginas
+# funcion para rastrear las paginas :0
 def go(n, dictionary, output):
     visited_urls = set()
-    queue = deque(["https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"])  # URL de inicio
+    queue = deque(["https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"])  # url de inicio
     index = {}
 
-    # Configurar Selenium
+    # configurar selenium
     chrome_options = Options()
-    chrome_options.headless = True  # Ejecutar sin abrir el navegador
+    chrome_options.headless = True  # ejecutar sin abrir el navegador
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
-    # Abrir el archivo CSV correctamente para escribir los cursos
+    # abrir el archivo csv correctamente para escribir los cursos :)
     try:
         with open(output, 'w', newline='', encoding='utf-8') as output_file:
             csv_writer = csv.writer(output_file, delimiter='|')
-            csv_writer.writerow(['course_id', 'course_name'])  # Cabecera del archivo CSV con ID y nombre del curso
-            print(f"CSV file '{output}' opened successfully.")
+            csv_writer.writerow(['course_id', 'course_name'])  # cabecera del archivo csv con id y nombre del curso
+            print(f"csv file '{output}' opened successfully.")
     except Exception as e:
-        print(f"Error opening CSV file: {e}")
-        driver.quit()  # Asegurarse de cerrar el navegador
+        print(f"error abriendo el archivo csv: {e}")
+        driver.quit()  # asegurarse de cerrar el navegador
         return
 
-    course_counter = 1  # Contador para generar IDs únicos para cada curso
+    course_counter = 1  # contador para generar ids unicos para cada curso
 
     while queue and len(visited_urls) < n:
         url = queue.popleft()
         if url in visited_urls:
             continue
         visited_urls.add(url)
-        print(f"Requesting: {url}")
+        print(f"requesting: {url}")
 
-        # Cargar la página con Selenium
+        # cargar la pagina con selenium
         driver.get(url)
-        print(f"Page loaded: {url}")
-        time.sleep(5)  # Esperar 5 segundos para asegurarse de que la página cargue
+        print(f"page loaded: {url}")
+        time.sleep(5)  # esperar 5 segundos para asegurarse de que la pagina cargue
 
         html_content = driver.page_source
-        print(f"HTML content received: {html_content[:1000]}...")  # Muestra los primeros 1000 caracteres del HTML para depuración
+        print(f"html content received: {html_content[:1000]}...")  # muestra los primeros 1000 caracteres del html para depuracion
 
-        soup = BeautifulSoup(html_content, "html.parser")  # Usamos el parser predeterminado de BeautifulSoup
+        soup = BeautifulSoup(html_content, "html.parser")  # usamos el parser predeterminado de BeautifulSoup
 
-        # Extraer los enlaces de las categorías
+        # extraer los enlaces de las categorias
         category_links = extract_category_links(soup)
-        print(f"Extracted category links: {category_links}")
+        print(f"extracted category links: {category_links}")
         if category_links:
             for category_link in category_links:
                 if category_link not in visited_urls:
-                    queue.append(category_link)  # Agregar los enlaces de categorías a la cola para seguirlos
+                    queue.append(category_link)  # agregar los enlaces de categorias a la cola para seguirlos
         else:
-            print("No category links found.")
+            print("no category links found.")
 
-        # Extraer los cursos de la página actual
+        # extraer los cursos de la pagina actual
         courses = extract_courses(soup)
-        print(f"Extracted courses: {courses}")  # Verifica que se están extrayendo los cursos
+        print(f"extracted courses: {courses}")  # verifica que se estan extrayendo los cursos
         if courses:
             with open(output, 'a', newline='', encoding='utf-8') as output_file:
                 csv_writer = csv.writer(output_file, delimiter='|')
                 for course in courses:
-                    course_id = f"course-{course_counter}"  # Asigna un ID único para cada curso
-                    course_counter += 1  # Incrementa el contador para el siguiente curso
-                    # Aquí, guardamos el ID y el nombre del curso en el CSV
+                    course_id = f"course-{course_counter}"  # asigna un id unico para cada curso
+                    course_counter += 1  # incrementa el contador para el siguiente curso
+                    # aqui, guardamos el id y el nombre del curso en el csv
                     csv_writer.writerow([course_id, course])
-                    print(f"Saving: {course_id} | {course}")  # Muestra lo que se está guardando
-                    # También agregamos el curso al índice para generar el diccionario
-                    index_course(index, course, course_id)  # Usamos el ID único del curso
+                    print(f"saving: {course_id} | {course}")  # muestra lo que se esta guardando
+                    # tambien agregamos el curso al indice para generar el diccionario
+                    index_course(index, course, course_id)  # usamos el id unico del curso
         else:
-            print("No courses found on this page.")
+            print("no courses found on this page.")
 
-    # Al finalizar, guardamos el diccionario de palabras clave
-    print("Saving dictionary to JSON...")
-    generate_dictionary(index, dictionary)  # Guardamos el diccionario como archivo JSON
+    # al finalizar, guardamos el diccionario de palabras clave
+    print("saving dictionary to json...")
+    generate_dictionary(index, dictionary)  # guardamos el diccionario como archivo json
 
-    print("Index before saving:", index)  # Muestra el índice antes de guardarlo
+    print("index before saving:", index)  # muestra el indice antes de guardarlo
 
-    # Guardamos el índice de palabras clave en el archivo CSV
+    # guardamos el indice de palabras clave en el archivo csv :|
     with open(output, 'a', newline='', encoding='utf-8') as output_file:
-        save_index(index, output_file)  # Guarda el índice en el archivo CSV
+        save_index(index, output_file)  # guarda el indice en el archivo csv
 
-    driver.quit()  # Asegurarse de cerrar el navegador al final
+    driver.quit()  # asegurarse de cerrar el navegador al final :)
 
-# Función para extraer enlaces de categorías
+# funcion para extraer enlaces de categorias :|
 def extract_category_links(soup):
     links = []
-    for div in soup.find_all('div', class_="item2"):  # Usamos la clase 'item2' como vemos en el HTML
-        a_tag = div.find('a', href=True)  # Buscamos los enlaces dentro de 'a'
+    for div in soup.find_all('div', class_="item2"):  # usamos la clase 'item2' como vemos en el html
+        a_tag = div.find('a', href=True)  # buscamos los enlaces dentro de 'a'
         if a_tag:
-            link = a_tag['href']  # Extraemos el href del enlace
+            link = a_tag['href']  # extraemos el href del enlace
             links.append(link)
-    print(f"Extracted category links: {links}")  # Imprime los enlaces extraídos
+    print(f"extracted category links: {links}")  # imprime los enlaces extraidos
     return links
 
-# Función para extraer cursos
+# funcion para extraer cursos :0
 def extract_courses(soup):
     courses = []
-    for div in soup.find_all('div', class_="card-body"):  # Ajusta la clase si es diferente
-        title_tag = div.find('b', class_="card-title text-primary font-weight-bold")  # Clase actualizada
+    for div in soup.find_all('div', class_="card-body"):  # ajusta la clase si es diferente
+        title_tag = div.find('b', class_="card-title text-primary font-weight-bold")  # clase actualizada
         if title_tag:
-            course_name = title_tag.text.strip()  # Extraemos solo el nombre del curso
+            course_name = title_tag.text.strip()  # extraemos solo el nombre del curso
             courses.append(course_name)
 
-    print(f"Extracted courses: {courses}")  # Imprime los cursos extraídos
+    print(f"extracted courses: {courses}")  # imprime los cursos extraidos
     return courses
 
-# Función para indexar palabras en el índice
+# funcion para indexar palabras en el indice :)
 def index_course(index, text, course_id):
-    words = re.findall(r'\b\w+\b', text.lower())  # Buscar palabras alfanuméricas
+    words = re.findall(r'\b\w+\b', text.lower())  # buscar palabras alfanumericas
     for word in words:
         if word in STOPWORDS or len(word) <= 2:
-            continue  # Ignorar palabras de 1 o 2 caracteres
+            continue  # ignorar palabras de 1 o 2 caracteres
         if word not in index:
             index[word] = []
         if course_id not in index[word]:
             index[word].append(course_id)
 
-# Función para guardar el índice en un archivo CSV
+# funcion para guardar el indice en un archivo csv :|
 def save_index(index, output_file):
     if index:
         for word, courses in index.items():
             for course_id in courses:
                 output_file.write(f"{course_id}|{word}\n")
-                print(f"Saving: {course_id}|{word}")
+                print(f"saving: {course_id}|{word}")
     else:
-        print("No data in index to save.")
+        print("no data in index to save.")
 
-# Función para guardar el diccionario como un archivo JSON
+# funcion para guardar el diccionario como un archivo json :)
 def generate_dictionary(index, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=4)
-        print(f"Dictionary saved to {output_file}")
+        print(f"dictionary saved to {output_file}")
