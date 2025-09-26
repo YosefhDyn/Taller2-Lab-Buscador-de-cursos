@@ -1,0 +1,6631 @@
+{
+    "gestión": [
+        "course-1",
+        "course-18",
+        "course-20",
+        "course-31",
+        "course-35",
+        "course-38",
+        "course-46",
+        "course-55",
+        "course-70",
+        "course-86",
+        "course-93",
+        "course-101",
+        "course-104",
+        "course-105",
+        "course-112",
+        "course-118",
+        "course-122",
+        "course-139",
+        "course-140",
+        "course-160",
+        "course-196",
+        "course-205",
+        "course-208",
+        "course-210",
+        "course-245",
+        "course-262",
+        "course-267",
+        "course-270",
+        "course-271",
+        "course-274",
+        "course-328",
+        "course-335",
+        "course-345",
+        "course-354",
+        "course-358",
+        "course-361",
+        "course-405",
+        "course-406",
+        "course-480",
+        "course-482",
+        "course-486",
+        "course-509",
+        "course-511",
+        "course-525",
+        "course-531",
+        "course-535",
+        "course-575",
+        "course-604",
+        "course-610",
+        "course-636",
+        "course-658",
+        "course-671",
+        "course-674"
+    ],
+    "proyectos": [
+        "course-1",
+        "course-11",
+        "course-43",
+        "course-46",
+        "course-71",
+        "course-115",
+        "course-118",
+        "course-161",
+        "course-187",
+        "course-195",
+        "course-196",
+        "course-262",
+        "course-274",
+        "course-328",
+        "course-335",
+        "course-442",
+        "course-465",
+        "course-479",
+        "course-610",
+        "course-671"
+    ],
+    "alineado": [
+        "course-1",
+        "course-671"
+    ],
+    "estándar": [
+        "course-1",
+        "course-671"
+    ],
+    "pmbok": [
+        "course-1",
+        "course-671"
+    ],
+    "potenciado": [
+        "course-1",
+        "course-671"
+    ],
+    "con": [
+        "course-1",
+        "course-9",
+        "course-14",
+        "course-21",
+        "course-36",
+        "course-43",
+        "course-72",
+        "course-104",
+        "course-105",
+        "course-114",
+        "course-119",
+        "course-120",
+        "course-141",
+        "course-158",
+        "course-177",
+        "course-196",
+        "course-203",
+        "course-227",
+        "course-262",
+        "course-274",
+        "course-284",
+        "course-290",
+        "course-296",
+        "course-300",
+        "course-321",
+        "course-323",
+        "course-324",
+        "course-328",
+        "course-357",
+        "course-362",
+        "course-370",
+        "course-379",
+        "course-381",
+        "course-412",
+        "course-435",
+        "course-454",
+        "course-487",
+        "course-533",
+        "course-536",
+        "course-546",
+        "course-553",
+        "course-555",
+        "course-556",
+        "course-612",
+        "course-620",
+        "course-642",
+        "course-650",
+        "course-667",
+        "course-671"
+    ],
+    "gen": [
+        "course-1",
+        "course-671"
+    ],
+    "medellín": [
+        "course-1",
+        "course-10",
+        "course-44",
+        "course-125",
+        "course-156",
+        "course-169",
+        "course-170",
+        "course-259",
+        "course-260",
+        "course-261",
+        "course-262",
+        "course-263",
+        "course-264",
+        "course-289",
+        "course-304",
+        "course-408",
+        "course-553",
+        "course-634",
+        "course-646"
+    ],
+    "modelos": [
+        "course-2"
+    ],
+    "financieros": [
+        "course-2",
+        "course-67",
+        "course-109",
+        "course-132",
+        "course-309",
+        "course-462",
+        "course-579"
+    ],
+    "era": [
+        "course-2",
+        "course-389"
+    ],
+    "del": [
+        "course-2",
+        "course-8",
+        "course-14",
+        "course-38",
+        "course-42",
+        "course-51",
+        "course-52",
+        "course-66",
+        "course-75",
+        "course-89",
+        "course-97",
+        "course-104",
+        "course-105",
+        "course-112",
+        "course-139",
+        "course-145",
+        "course-148",
+        "course-174",
+        "course-178",
+        "course-195",
+        "course-208",
+        "course-227",
+        "course-242",
+        "course-257",
+        "course-276",
+        "course-306",
+        "course-313",
+        "course-331",
+        "course-362",
+        "course-367",
+        "course-368",
+        "course-371",
+        "course-376",
+        "course-395",
+        "course-422",
+        "course-424",
+        "course-430",
+        "course-463",
+        "course-482",
+        "course-506",
+        "course-507",
+        "course-508",
+        "course-509",
+        "course-510",
+        "course-511",
+        "course-525",
+        "course-537",
+        "course-546",
+        "course-562",
+        "course-568",
+        "course-578",
+        "course-591",
+        "course-597",
+        "course-613",
+        "course-663"
+    ],
+    "machine": [
+        "course-2",
+        "course-132",
+        "course-685"
+    ],
+    "learning": [
+        "course-2",
+        "course-132",
+        "course-466",
+        "course-468",
+        "course-685"
+    ],
+    "revisoría": [
+        "course-3",
+        "course-580",
+        "course-656",
+        "course-670"
+    ],
+    "fiscal": [
+        "course-3",
+        "course-580",
+        "course-656",
+        "course-670"
+    ],
+    "auditoría": [
+        "course-3",
+        "course-89",
+        "course-193",
+        "course-428",
+        "course-656",
+        "course-670"
+    ],
+    "financiera": [
+        "course-3",
+        "course-80",
+        "course-115",
+        "course-140",
+        "course-264",
+        "course-330",
+        "course-428",
+        "course-459",
+        "course-566",
+        "course-580",
+        "course-604",
+        "course-656",
+        "course-670"
+    ],
+    "analítica": [
+        "course-4",
+        "course-109",
+        "course-110",
+        "course-201",
+        "course-210",
+        "course-344",
+        "course-457",
+        "course-474",
+        "course-532"
+    ],
+    "datos": [
+        "course-4",
+        "course-33",
+        "course-95",
+        "course-101",
+        "course-109",
+        "course-110",
+        "course-137",
+        "course-162",
+        "course-186",
+        "course-201",
+        "course-210",
+        "course-284",
+        "course-316",
+        "course-457",
+        "course-535",
+        "course-561",
+        "course-568"
+    ],
+    "automatización": [
+        "course-4",
+        "course-248",
+        "course-249",
+        "course-308",
+        "course-335",
+        "course-336"
+    ],
+    "procesos": [
+        "course-4",
+        "course-65",
+        "course-97",
+        "course-162",
+        "course-165",
+        "course-215",
+        "course-222",
+        "course-308"
+    ],
+    "power": [
+        "course-4",
+        "course-21",
+        "course-167",
+        "course-212",
+        "course-216",
+        "course-674"
+    ],
+    "automate": [
+        "course-4"
+    ],
+    "docencia": [
+        "course-5"
+    ],
+    "universitaria": [
+        "course-5"
+    ],
+    "inteligencia": [
+        "course-6",
+        "course-13",
+        "course-21",
+        "course-36",
+        "course-37",
+        "course-42",
+        "course-88",
+        "course-109",
+        "course-126",
+        "course-151",
+        "course-154",
+        "course-185",
+        "course-203",
+        "course-229",
+        "course-260",
+        "course-344",
+        "course-380",
+        "course-389",
+        "course-407",
+        "course-485",
+        "course-490",
+        "course-585",
+        "course-620",
+        "course-633",
+        "course-634",
+        "course-673"
+    ],
+    "artificial": [
+        "course-6",
+        "course-13",
+        "course-21",
+        "course-36",
+        "course-37",
+        "course-42",
+        "course-88",
+        "course-109",
+        "course-126",
+        "course-151",
+        "course-154",
+        "course-185",
+        "course-203",
+        "course-229",
+        "course-260",
+        "course-380",
+        "course-389",
+        "course-407",
+        "course-585",
+        "course-620",
+        "course-633",
+        "course-634",
+        "course-673"
+    ],
+    "generativa": [
+        "course-6",
+        "course-154",
+        "course-185",
+        "course-633"
+    ],
+    "para": [
+        "course-6",
+        "course-13",
+        "course-16",
+        "course-27",
+        "course-32",
+        "course-38",
+        "course-42",
+        "course-52",
+        "course-56",
+        "course-65",
+        "course-66",
+        "course-67",
+        "course-76",
+        "course-84",
+        "course-88",
+        "course-95",
+        "course-96",
+        "course-99",
+        "course-101",
+        "course-109",
+        "course-115",
+        "course-119",
+        "course-123",
+        "course-132",
+        "course-140",
+        "course-145",
+        "course-148",
+        "course-151",
+        "course-154",
+        "course-159",
+        "course-160",
+        "course-162",
+        "course-167",
+        "course-168",
+        "course-169",
+        "course-171",
+        "course-174",
+        "course-178",
+        "course-180",
+        "course-182",
+        "course-185",
+        "course-199",
+        "course-212",
+        "course-228",
+        "course-231",
+        "course-232",
+        "course-238",
+        "course-260",
+        "course-275",
+        "course-278",
+        "course-280",
+        "course-290",
+        "course-307",
+        "course-310",
+        "course-319",
+        "course-325",
+        "course-326",
+        "course-327",
+        "course-329",
+        "course-331",
+        "course-344",
+        "course-352",
+        "course-355",
+        "course-358",
+        "course-365",
+        "course-370",
+        "course-377",
+        "course-379",
+        "course-399",
+        "course-410",
+        "course-419",
+        "course-420",
+        "course-422",
+        "course-423",
+        "course-426",
+        "course-430",
+        "course-431",
+        "course-433",
+        "course-449",
+        "course-458",
+        "course-461",
+        "course-464",
+        "course-468",
+        "course-470",
+        "course-474",
+        "course-484",
+        "course-493",
+        "course-494",
+        "course-523",
+        "course-529",
+        "course-540",
+        "course-550",
+        "course-565",
+        "course-571",
+        "course-572",
+        "course-574",
+        "course-579",
+        "course-588",
+        "course-609",
+        "course-612",
+        "course-629",
+        "course-630",
+        "course-631",
+        "course-633",
+        "course-635",
+        "course-640",
+        "course-647",
+        "course-659",
+        "course-679",
+        "course-680",
+        "course-682",
+        "course-685",
+        "course-692"
+    ],
+    "productividad": [
+        "course-6",
+        "course-96",
+        "course-99",
+        "course-154",
+        "course-185",
+        "course-260",
+        "course-275",
+        "course-633",
+        "course-635"
+    ],
+    "laboral": [
+        "course-6",
+        "course-18",
+        "course-106",
+        "course-144",
+        "course-154",
+        "course-155",
+        "course-185",
+        "course-202",
+        "course-285",
+        "course-286",
+        "course-630",
+        "course-633",
+        "course-657",
+        "course-661",
+        "course-672"
+    ],
+    "suroccidente": [
+        "course-6",
+        "course-7",
+        "course-157"
+    ],
+    "transformaciones": [
+        "course-8"
+    ],
+    "orden": [
+        "course-8"
+    ],
+    "género": [
+        "course-8",
+        "course-338",
+        "course-392",
+        "course-420"
+    ],
+    "individuo": [
+        "course-8"
+    ],
+    "individualidad": [
+        "course-8"
+    ],
+    "mapear": [
+        "course-9"
+    ],
+    "analizar": [
+        "course-9"
+    ],
+    "comprender": [
+        "course-9"
+    ],
+    "sistematización": [
+        "course-9"
+    ],
+    "información": [
+        "course-9",
+        "course-80",
+        "course-212",
+        "course-252",
+        "course-380",
+        "course-428",
+        "course-448",
+        "course-459"
+    ],
+    "nvivo": [
+        "course-9"
+    ],
+    "alta": [
+        "course-10",
+        "course-88",
+        "course-214",
+        "course-265",
+        "course-277",
+        "course-367",
+        "course-643",
+        "course-645",
+        "course-647",
+        "course-669"
+    ],
+    "gerencia": [
+        "course-10",
+        "course-71",
+        "course-88",
+        "course-222",
+        "course-264",
+        "course-265",
+        "course-277",
+        "course-305",
+        "course-330",
+        "course-359",
+        "course-424",
+        "course-465",
+        "course-551",
+        "course-569",
+        "course-576",
+        "course-582",
+        "course-591",
+        "course-593",
+        "course-643",
+        "course-645",
+        "course-647",
+        "course-669"
+    ],
+    "negocios": [
+        "course-10",
+        "course-140",
+        "course-170",
+        "course-205",
+        "course-277",
+        "course-344",
+        "course-384",
+        "course-430",
+        "course-485",
+        "course-496",
+        "course-497",
+        "course-662",
+        "course-677"
+    ],
+    "gastronómicos": [
+        "course-10",
+        "course-140",
+        "course-277",
+        "course-430"
+    ],
+    "que": [
+        "course-11",
+        "course-161",
+        "course-347"
+    ],
+    "cuentan": [
+        "course-11"
+    ],
+    "formulación": [
+        "course-11",
+        "course-365"
+    ],
+    "propuestas": [
+        "course-11"
+    ],
+    "artísticas": [
+        "course-11",
+        "course-254",
+        "course-376"
+    ],
+    "culturales": [
+        "course-11",
+        "course-438",
+        "course-453",
+        "course-542",
+        "course-543",
+        "course-544"
+    ],
+    "indicadores": [
+        "course-12",
+        "course-101",
+        "course-269",
+        "course-355",
+        "course-572"
+    ],
+    "sociales": [
+        "course-12",
+        "course-71",
+        "course-74",
+        "course-114",
+        "course-158",
+        "course-355",
+        "course-364"
+    ],
+    "métodos": [
+        "course-12",
+        "course-40",
+        "course-137"
+    ],
+    "evidencia": [
+        "course-12"
+    ],
+    "contexto": [
+        "course-12",
+        "course-252",
+        "course-394"
+    ],
+    "odontólogos": [
+        "course-13"
+    ],
+    "eje": [
+        "course-13",
+        "course-108",
+        "course-121",
+        "course-185",
+        "course-201",
+        "course-273",
+        "course-305",
+        "course-407",
+        "course-454",
+        "course-545",
+        "course-580",
+        "course-599",
+        "course-632"
+    ],
+    "cafetero": [
+        "course-13",
+        "course-108",
+        "course-121",
+        "course-185",
+        "course-201",
+        "course-273",
+        "course-305",
+        "course-407",
+        "course-454",
+        "course-545",
+        "course-580",
+        "course-599",
+        "course-632"
+    ],
+    "diseñar": [
+        "course-14"
+    ],
+    "arquitectura": [
+        "course-14",
+        "course-79",
+        "course-296",
+        "course-375",
+        "course-562",
+        "course-592"
+    ],
+    "interiorismo": [
+        "course-14"
+    ],
+    "futuro": [
+        "course-14",
+        "course-266",
+        "course-505",
+        "course-533",
+        "course-546"
+    ],
+    "vitalmente": [
+        "course-15"
+    ],
+    "plenos": [
+        "course-15"
+    ],
+    "mejor": [
+        "course-15"
+    ],
+    "comienza": [
+        "course-15"
+    ],
+    "despues": [
+        "course-15"
+    ],
+    "los": [
+        "course-15",
+        "course-137",
+        "course-163",
+        "course-169",
+        "course-246",
+        "course-300",
+        "course-337",
+        "course-364",
+        "course-399",
+        "course-409",
+        "course-449",
+        "course-452",
+        "course-463",
+        "course-534",
+        "course-544",
+        "course-654",
+        "course-662",
+        "course-692"
+    ],
+    "manizales": [
+        "course-15",
+        "course-114",
+        "course-250",
+        "course-691"
+    ],
+    "entre": [
+        "course-16",
+        "course-242"
+    ],
+    "memoria": [
+        "course-16"
+    ],
+    "esperanza": [
+        "course-16"
+    ],
+    "caminos": [
+        "course-16"
+    ],
+    "bíblicos": [
+        "course-16"
+    ],
+    "reconciliación": [
+        "course-16"
+    ],
+    "derecho": [
+        "course-17",
+        "course-49",
+        "course-63",
+        "course-64",
+        "course-75",
+        "course-85",
+        "course-87",
+        "course-97",
+        "course-107",
+        "course-125",
+        "course-129",
+        "course-143",
+        "course-273",
+        "course-285",
+        "course-286",
+        "course-303",
+        "course-312",
+        "course-317",
+        "course-411",
+        "course-416",
+        "course-418",
+        "course-586",
+        "course-595",
+        "course-598",
+        "course-605",
+        "course-606",
+        "course-630",
+        "course-653",
+        "course-661",
+        "course-672",
+        "course-684"
+    ],
+    "penal": [
+        "course-17",
+        "course-390",
+        "course-653",
+        "course-663"
+    ],
+    "canónico": [
+        "course-17",
+        "course-684"
+    ],
+    "jurídica": [
+        "course-18",
+        "course-256"
+    ],
+    "actualización": [
+        "course-18",
+        "course-28",
+        "course-39",
+        "course-144",
+        "course-251",
+        "course-258",
+        "course-287",
+        "course-387",
+        "course-570"
+    ],
+    "sobre": [
+        "course-18",
+        "course-226",
+        "course-257",
+        "course-428"
+    ],
+    "estabilidad": [
+        "course-18"
+    ],
+    "reforzada": [
+        "course-18"
+    ],
+    "actualidad": [
+        "course-19",
+        "course-578"
+    ],
+    "pensiones": [
+        "course-19",
+        "course-175"
+    ],
+    "reforma": [
+        "course-19",
+        "course-87",
+        "course-106",
+        "course-155",
+        "course-202",
+        "course-287",
+        "course-312",
+        "course-416"
+    ],
+    "jurisprudencia": [
+        "course-19",
+        "course-72"
+    ],
+    "relevante": [
+        "course-19"
+    ],
+    "sistema": [
+        "course-20",
+        "course-195",
+        "course-270",
+        "course-337",
+        "course-354",
+        "course-663"
+    ],
+    "activos": [
+        "course-20"
+    ],
+    "ntc": [
+        "course-20"
+    ],
+    "iso": [
+        "course-20"
+    ],
+    "55001": [
+        "course-20"
+    ],
+    "2024": [
+        "course-20",
+        "course-251",
+        "course-387",
+        "course-396",
+        "course-409"
+    ],
+    "microsoft": [
+        "course-21",
+        "course-35",
+        "course-166",
+        "course-216",
+        "course-262",
+        "course-328"
+    ],
+    "aplicaciones": [
+        "course-22",
+        "course-528",
+        "course-568"
+    ],
+    "biologia": [
+        "course-22"
+    ],
+    "molecular": [
+        "course-22",
+        "course-349",
+        "course-356"
+    ],
+    "coaching": [
+        "course-23",
+        "course-26",
+        "course-57",
+        "course-142",
+        "course-560"
+    ],
+    "vocacional": [
+        "course-23",
+        "course-207"
+    ],
+    "cómo": [
+        "course-23",
+        "course-66",
+        "course-74",
+        "course-120",
+        "course-149",
+        "course-260",
+        "course-320",
+        "course-329",
+        "course-564",
+        "course-692"
+    ],
+    "acompañar": [
+        "course-23",
+        "course-211"
+    ],
+    "jóvenes": [
+        "course-23",
+        "course-47",
+        "course-329",
+        "course-346",
+        "course-692"
+    ],
+    "sus": [
+        "course-23",
+        "course-173"
+    ],
+    "búsquedas": [
+        "course-23"
+    ],
+    "profesionales": [
+        "course-23",
+        "course-565"
+    ],
+    "vida": [
+        "course-23",
+        "course-34",
+        "course-299",
+        "course-438"
+    ],
+    "club": [
+        "course-24",
+        "course-177",
+        "course-198"
+    ],
+    "sapiencia": [
+        "course-24",
+        "course-177",
+        "course-198"
+    ],
+    "preparación": [
+        "course-25",
+        "course-56",
+        "course-171",
+        "course-231",
+        "course-331",
+        "course-462",
+        "course-571"
+    ],
+    "examen": [
+        "course-25"
+    ],
+    "ingreso": [
+        "course-25",
+        "course-306",
+        "course-395"
+    ],
+    "carrera": [
+        "course-25",
+        "course-571"
+    ],
+    "diplomática": [
+        "course-25"
+    ],
+    "consular": [
+        "course-25"
+    ],
+    "colombiana": [
+        "course-25"
+    ],
+    "certificación": [
+        "course-26",
+        "course-56",
+        "course-66",
+        "course-171",
+        "course-220",
+        "course-221",
+        "course-304",
+        "course-331",
+        "course-431",
+        "course-627"
+    ],
+    "sistémico": [
+        "course-26",
+        "course-652"
+    ],
+    "equipos": [
+        "course-26",
+        "course-225",
+        "course-419",
+        "course-477",
+        "course-478"
+    ],
+    "metodología": [
+        "course-27",
+        "course-182",
+        "course-274"
+    ],
+    "grade": [
+        "course-27"
+    ],
+    "toma": [
+        "course-27",
+        "course-95",
+        "course-470",
+        "course-500",
+        "course-602"
+    ],
+    "decisiones": [
+        "course-27",
+        "course-95",
+        "course-148",
+        "course-488",
+        "course-500",
+        "course-602"
+    ],
+    "tributaria": [
+        "course-28",
+        "course-582"
+    ],
+    "finanzas": [
+        "course-29",
+        "course-67",
+        "course-160",
+        "course-237",
+        "course-579",
+        "course-691"
+    ],
+    "verdes": [
+        "course-29"
+    ],
+    "lectura": [
+        "course-30",
+        "course-191",
+        "course-614"
+    ],
+    "crítica": [
+        "course-30",
+        "course-549"
+    ],
+    "riesgos": [
+        "course-31",
+        "course-132",
+        "course-280"
+    ],
+    "sarlaft": [
+        "course-31",
+        "course-342",
+        "course-603"
+    ],
+    "sagrilaft": [
+        "course-31",
+        "course-529",
+        "course-637"
+    ],
+    "cúcuta": [
+        "course-31"
+    ],
+    "gobierno": [
+        "course-32",
+        "course-53",
+        "course-95",
+        "course-263",
+        "course-280",
+        "course-383",
+        "course-399",
+        "course-423",
+        "course-483",
+        "course-625"
+    ],
+    "corporativo": [
+        "course-32",
+        "course-53",
+        "course-263",
+        "course-383",
+        "course-399",
+        "course-483"
+    ],
+    "acción": [
+        "course-32",
+        "course-266",
+        "course-425",
+        "course-439",
+        "course-440",
+        "course-441",
+        "course-442",
+        "course-443",
+        "course-444",
+        "course-445",
+        "course-446",
+        "course-447",
+        "course-620"
+    ],
+    "estrategia": [
+        "course-32",
+        "course-98",
+        "course-113",
+        "course-114",
+        "course-158",
+        "course-476"
+    ],
+    "buenas": [
+        "course-32"
+    ],
+    "prácticas": [
+        "course-32",
+        "course-84",
+        "course-191",
+        "course-376",
+        "course-435",
+        "course-461",
+        "course-468",
+        "course-564"
+    ],
+    "juntas": [
+        "course-32",
+        "course-53",
+        "course-263",
+        "course-632"
+    ],
+    "directivas": [
+        "course-32",
+        "course-53",
+        "course-263",
+        "course-632"
+    ],
+    "storytelling": [
+        "course-33",
+        "course-289",
+        "course-316",
+        "course-648"
+    ],
+    "presentaciones": [
+        "course-33",
+        "course-36",
+        "course-294",
+        "course-316"
+    ],
+    "basadas": [
+        "course-33",
+        "course-316"
+    ],
+    "generación": [
+        "course-33",
+        "course-212",
+        "course-316"
+    ],
+    "estadisticos": [
+        "course-33"
+    ],
+    "bucaramanga": [
+        "course-33",
+        "course-55",
+        "course-92",
+        "course-288",
+        "course-569",
+        "course-579",
+        "course-592",
+        "course-637",
+        "course-656",
+        "course-667",
+        "course-672",
+        "course-673"
+    ],
+    "taller": [
+        "course-34",
+        "course-307",
+        "course-631"
+    ],
+    "escritura": [
+        "course-34",
+        "course-191",
+        "course-307",
+        "course-329",
+        "course-621"
+    ],
+    "narrativas": [
+        "course-34",
+        "course-147",
+        "course-426"
+    ],
+    "autorreflexivas": [
+        "course-34"
+    ],
+    "detrás": [
+        "course-34"
+    ],
+    "las": [
+        "course-34",
+        "course-75",
+        "course-99",
+        "course-227",
+        "course-299",
+        "course-301",
+        "course-321",
+        "course-364",
+        "course-366",
+        "course-379",
+        "course-407",
+        "course-414",
+        "course-564",
+        "course-642",
+        "course-650",
+        "course-676"
+    ],
+    "palabras": [
+        "course-34"
+    ],
+    "project": [
+        "course-35",
+        "course-161",
+        "course-262",
+        "course-328",
+        "course-331"
+    ],
+    "aplicado": [
+        "course-35"
+    ],
+    "obras": [
+        "course-35",
+        "course-118",
+        "course-121"
+    ],
+    "construcción": [
+        "course-35",
+        "course-42",
+        "course-68",
+        "course-82",
+        "course-98",
+        "course-118",
+        "course-157",
+        "course-248",
+        "course-249",
+        "course-336",
+        "course-447",
+        "course-590",
+        "course-599",
+        "course-618",
+        "course-646"
+    ],
+    "efectivas": [
+        "course-36",
+        "course-415"
+    ],
+    "aplicada": [
+        "course-37",
+        "course-92",
+        "course-356",
+        "course-380",
+        "course-467"
+    ],
+    "logística": [
+        "course-37",
+        "course-461"
+    ],
+    "operaciones": [
+        "course-37"
+    ],
+    "innovación": [
+        "course-38",
+        "course-113",
+        "course-120",
+        "course-222",
+        "course-266",
+        "course-283",
+        "course-348",
+        "course-391",
+        "course-471",
+        "course-504",
+        "course-566",
+        "course-625",
+        "course-689"
+    ],
+    "sostenible": [
+        "course-38",
+        "course-82",
+        "course-157",
+        "course-384",
+        "course-572",
+        "course-599",
+        "course-618",
+        "course-626",
+        "course-635",
+        "course-646"
+    ],
+    "conocimiento": [
+        "course-38",
+        "course-42",
+        "course-376",
+        "course-509"
+    ],
+    "pymes": [
+        "course-38"
+    ],
+    "economía": [
+        "course-38",
+        "course-384",
+        "course-461",
+        "course-563",
+        "course-568"
+    ],
+    "circular": [
+        "course-38",
+        "course-384",
+        "course-461",
+        "course-563"
+    ],
+    "herramientas": [
+        "course-38",
+        "course-108",
+        "course-145",
+        "course-151",
+        "course-167",
+        "course-169",
+        "course-238",
+        "course-296",
+        "course-377",
+        "course-457",
+        "course-461",
+        "course-468",
+        "course-535",
+        "course-635",
+        "course-657",
+        "course-674",
+        "course-685"
+    ],
+    "colaborativas": [
+        "course-38"
+    ],
+    "niif": [
+        "course-39",
+        "course-80",
+        "course-135",
+        "course-435",
+        "course-459"
+    ],
+    "pyme": [
+        "course-39"
+    ],
+    "grupo": [
+        "course-39"
+    ],
+    "entrenamiento": [
+        "course-40",
+        "course-243",
+        "course-318",
+        "course-386"
+    ],
+    "deportivo": [
+        "course-40",
+        "course-63",
+        "course-75"
+    ],
+    "tendencias": [
+        "course-40",
+        "course-466",
+        "course-641"
+    ],
+    "neuroliderazgo": [
+        "course-41"
+    ],
+    "neuromanagement": [
+        "course-41"
+    ],
+    "culturas": [
+        "course-41",
+        "course-608"
+    ],
+    "brain": [
+        "course-41"
+    ],
+    "friendly": [
+        "course-41"
+    ],
+    "manejo": [
+        "course-42",
+        "course-152",
+        "course-230",
+        "course-408",
+        "course-413",
+        "course-613",
+        "course-628",
+        "course-658"
+    ],
+    "archivos": [
+        "course-42",
+        "course-54",
+        "course-150"
+    ],
+    "digitales": [
+        "course-42",
+        "course-54",
+        "course-200",
+        "course-205",
+        "course-238",
+        "course-319",
+        "course-506",
+        "course-507",
+        "course-508",
+        "course-509",
+        "course-511",
+        "course-608",
+        "course-636"
+    ],
+    "paz": [
+        "course-42",
+        "course-447"
+    ],
+    "hiperrealismo": [
+        "course-43"
+    ],
+    "tiempo": [
+        "course-43",
+        "course-51",
+        "course-482"
+    ],
+    "real": [
+        "course-43",
+        "course-529"
+    ],
+    "visualización": [
+        "course-43"
+    ],
+    "epic": [
+        "course-43"
+    ],
+    "games": [
+        "course-43"
+    ],
+    "organización": [
+        "course-44",
+        "course-54",
+        "course-182",
+        "course-380"
+    ],
+    "producción": [
+        "course-44",
+        "course-182",
+        "course-279",
+        "course-365",
+        "course-377",
+        "course-458"
+    ],
+    "integral": [
+        "course-44",
+        "course-182",
+        "course-280",
+        "course-338",
+        "course-362",
+        "course-367",
+        "course-486",
+        "course-555",
+        "course-665",
+        "course-676"
+    ],
+    "eventos": [
+        "course-44",
+        "course-55",
+        "course-182",
+        "course-245",
+        "course-574"
+    ],
+    "soporte": [
+        "course-45",
+        "course-164",
+        "course-250",
+        "course-339",
+        "course-678"
+    ],
+    "vital": [
+        "course-45",
+        "course-164",
+        "course-250",
+        "course-339",
+        "course-678"
+    ],
+    "cardiovascular": [
+        "course-45",
+        "course-250",
+        "course-678"
+    ],
+    "básico": [
+        "course-45",
+        "course-128",
+        "course-164",
+        "course-216",
+        "course-250",
+        "course-275",
+        "course-339",
+        "course-678"
+    ],
+    "avanzado": [
+        "course-45",
+        "course-189",
+        "course-250",
+        "course-678"
+    ],
+    "bls": [
+        "course-45",
+        "course-250",
+        "course-339",
+        "course-678"
+    ],
+    "acls": [
+        "course-45",
+        "course-250",
+        "course-678"
+    ],
+    "heartcode": [
+        "course-45"
+    ],
+    "bibliotecarios": [
+        "course-46"
+    ],
+    "públicos": [
+        "course-46",
+        "course-230"
+    ],
+    "coro": [
+        "course-47"
+    ],
+    "adultos": [
+        "course-47",
+        "course-180"
+    ],
+    "huella": [
+        "course-48",
+        "course-559"
+    ],
+    "carbono": [
+        "course-48"
+    ],
+    "sector": [
+        "course-48",
+        "course-396",
+        "course-529",
+        "course-641"
+    ],
+    "constructor": [
+        "course-48"
+    ],
+    "colectivo": [
+        "course-49"
+    ],
+    "negociación": [
+        "course-49",
+        "course-226",
+        "course-282",
+        "course-396"
+    ],
+    "colectiva": [
+        "course-49",
+        "course-226",
+        "course-396"
+    ],
+    "facade": [
+        "course-50"
+    ],
+    "code": [
+        "course-50"
+    ],
+    "práctico": [
+        "course-50",
+        "course-58",
+        "course-76"
+    ],
+    "diseño": [
+        "course-50",
+        "course-90",
+        "course-94",
+        "course-281",
+        "course-296",
+        "course-325",
+        "course-355",
+        "course-422",
+        "course-460",
+        "course-563",
+        "course-572",
+        "course-594",
+        "course-657",
+        "course-660"
+    ],
+    "generativo": [
+        "course-50"
+    ],
+    "envolventes": [
+        "course-50"
+    ],
+    "arquitectónicas": [
+        "course-50"
+    ],
+    "arte": [
+        "course-51",
+        "course-117",
+        "course-199",
+        "course-296",
+        "course-340",
+        "course-377"
+    ],
+    "oculto": [
+        "course-51"
+    ],
+    "magia": [
+        "course-51",
+        "course-422",
+        "course-537"
+    ],
+    "esoterismo": [
+        "course-51"
+    ],
+    "plantas": [
+        "course-51"
+    ],
+    "curativas": [
+        "course-51"
+    ],
+    "través": [
+        "course-51",
+        "course-174",
+        "course-208",
+        "course-276",
+        "course-451"
+    ],
+    "historia": [
+        "course-52",
+        "course-177",
+        "course-204",
+        "course-241",
+        "course-242",
+        "course-366"
+    ],
+    "fútbol": [
+        "course-52"
+    ],
+    "entender": [
+        "course-52"
+    ],
+    "una": [
+        "course-52",
+        "course-86",
+        "course-174",
+        "course-198",
+        "course-204",
+        "course-235",
+        "course-239",
+        "course-240",
+        "course-280",
+        "course-290",
+        "course-295",
+        "course-302",
+        "course-361",
+        "course-371",
+        "course-461",
+        "course-550",
+        "course-612"
+    ],
+    "práctica": [
+        "course-52",
+        "course-219"
+    ],
+    "deportiva": [
+        "course-52"
+    ],
+    "global": [
+        "course-52",
+        "course-148",
+        "course-236"
+    ],
+    "conservación": [
+        "course-54"
+    ],
+    "protocolo": [
+        "course-55",
+        "course-245",
+        "course-497"
+    ],
+    "relaciones": [
+        "course-55",
+        "course-159"
+    ],
+    "públicas": [
+        "course-55",
+        "course-355",
+        "course-365",
+        "course-572",
+        "course-573",
+        "course-640",
+        "course-657"
+    ],
+    "scrum": [
+        "course-56",
+        "course-171"
+    ],
+    "product": [
+        "course-56"
+    ],
+    "owner": [
+        "course-56"
+    ],
+    "profesional": [
+        "course-56",
+        "course-130",
+        "course-151",
+        "course-156",
+        "course-171",
+        "course-213",
+        "course-245",
+        "course-253",
+        "course-611",
+        "course-690"
+    ],
+    "internacional": [
+        "course-56",
+        "course-171",
+        "course-221",
+        "course-304",
+        "course-331",
+        "course-340",
+        "course-627"
+    ],
+    "certiprof": [
+        "course-56",
+        "course-171"
+    ],
+    "liderazgo": [
+        "course-57",
+        "course-81",
+        "course-142",
+        "course-169",
+        "course-247",
+        "course-283",
+        "course-327",
+        "course-463",
+        "course-491",
+        "course-493",
+        "course-560",
+        "course-632",
+        "course-647",
+        "course-665"
+    ],
+    "oriente": [
+        "course-57",
+        "course-60",
+        "course-74",
+        "course-450",
+        "course-546",
+        "course-586",
+        "course-598",
+        "course-631",
+        "course-645",
+        "course-649",
+        "course-669"
+    ],
+    "tratamiento": [
+        "course-58",
+        "course-200",
+        "course-534"
+    ],
+    "anticoagulante": [
+        "course-58"
+    ],
+    "erotismo": [
+        "course-59"
+    ],
+    "sexualidad": [
+        "course-59"
+    ],
+    "espiritualidad": [
+        "course-59"
+    ],
+    "placer": [
+        "course-59"
+    ],
+    "sagrado": [
+        "course-59"
+    ],
+    "como": [
+        "course-59",
+        "course-66",
+        "course-322",
+        "course-429",
+        "course-448",
+        "course-518"
+    ],
+    "fuente": [
+        "course-59"
+    ],
+    "crecimiento": [
+        "course-59",
+        "course-360"
+    ],
+    "repostería": [
+        "course-60"
+    ],
+    "panadería": [
+        "course-60"
+    ],
+    "saludable": [
+        "course-60",
+        "course-550"
+    ],
+    "compliance": [
+        "course-61",
+        "course-383"
+    ],
+    "redacción": [
+        "course-62",
+        "course-103"
+    ],
+    "artículos": [
+        "course-62",
+        "course-320"
+    ],
+    "académicos": [
+        "course-62"
+    ],
+    "científicos": [
+        "course-62"
+    ],
+    "inmobiliario": [
+        "course-64",
+        "course-107",
+        "course-411",
+        "course-413",
+        "course-598",
+        "course-641"
+    ],
+    "bpm": [
+        "course-65"
+    ],
+    "transformación": [
+        "course-65",
+        "course-98",
+        "course-151",
+        "course-225",
+        "course-382",
+        "course-384",
+        "course-527"
+    ],
+    "digital": [
+        "course-65",
+        "course-98",
+        "course-114",
+        "course-158",
+        "course-244",
+        "course-279",
+        "course-343",
+        "course-382",
+        "course-384",
+        "course-407",
+        "course-600",
+        "course-617",
+        "course-675",
+        "course-688"
+    ],
+    "prepararse": [
+        "course-66"
+    ],
+    "proceso": [
+        "course-66"
+    ],
+    "traductor": [
+        "course-66"
+    ],
+    "intérprete": [
+        "course-66"
+    ],
+    "oficial": [
+        "course-66",
+        "course-190",
+        "course-280"
+    ],
+    "inglés": [
+        "course-66",
+        "course-128",
+        "course-337"
+    ],
+    "material": [
+        "course-68"
+    ],
+    "rodante": [
+        "course-68"
+    ],
+    "mantenimiento": [
+        "course-68",
+        "course-517"
+    ],
+    "ferroviario": [
+        "course-68"
+    ],
+    "movimiento": [
+        "course-69",
+        "course-446"
+    ],
+    "consciente": [
+        "course-69",
+        "course-334",
+        "course-665",
+        "course-687"
+    ],
+    "creativo": [
+        "course-69",
+        "course-323",
+        "course-451",
+        "course-464",
+        "course-495"
+    ],
+    "misión": [
+        "course-70"
+    ],
+    "españa": [
+        "course-70"
+    ],
+    "modelo": [
+        "course-70",
+        "course-255",
+        "course-492",
+        "course-665",
+        "course-686"
+    ],
+    "gastronómica": [
+        "course-70",
+        "course-456"
+    ],
+    "contratación": [
+        "course-72",
+        "course-626",
+        "course-649"
+    ],
+    "estatal": [
+        "course-72",
+        "course-649"
+    ],
+    "régimen": [
+        "course-72",
+        "course-75",
+        "course-93",
+        "course-219",
+        "course-649"
+    ],
+    "general": [
+        "course-72",
+        "course-195",
+        "course-524",
+        "course-649",
+        "course-651"
+    ],
+    "actualizado": [
+        "course-72",
+        "course-649"
+    ],
+    "normativa": [
+        "course-72"
+    ],
+    "conceptos": [
+        "course-72",
+        "course-292"
+    ],
+    "realidad": [
+        "course-73",
+        "course-247"
+    ],
+    "virtual": [
+        "course-73",
+        "course-103",
+        "course-466",
+        "course-468",
+        "course-469"
+    ],
+    "ambientes": [
+        "course-73",
+        "course-220",
+        "course-398"
+    ],
+    "especiales": [
+        "course-73"
+    ],
+    "telesalud": [
+        "course-73"
+    ],
+    "odontología": [
+        "course-73",
+        "course-229",
+        "course-298",
+        "course-389",
+        "course-601"
+    ],
+    "vender": [
+        "course-74"
+    ],
+    "redes": [
+        "course-74",
+        "course-114",
+        "course-158",
+        "course-248"
+    ],
+    "deportista": [
+        "course-75"
+    ],
+    "instituciones": [
+        "course-75"
+    ],
+    "deportivas": [
+        "course-75"
+    ],
+    "meditación": [
+        "course-76",
+        "course-547",
+        "course-613"
+    ],
+    "mindfulness": [
+        "course-76",
+        "course-141",
+        "course-178",
+        "course-523"
+    ],
+    "restablecer": [
+        "course-76"
+    ],
+    "armonía": [
+        "course-76"
+    ],
+    "interior": [
+        "course-76",
+        "course-79",
+        "course-592"
+    ],
+    "propiedad": [
+        "course-77",
+        "course-93",
+        "course-184"
+    ],
+    "horizontal": [
+        "course-77",
+        "course-93",
+        "course-184"
+    ],
+    "contabilidad": [
+        "course-78",
+        "course-234"
+    ],
+    "coberturas": [
+        "course-78"
+    ],
+    "normas": [
+        "course-80",
+        "course-459"
+    ],
+    "internacionales": [
+        "course-80",
+        "course-159",
+        "course-459",
+        "course-662"
+    ],
+    "habilidades": [
+        "course-81",
+        "course-92",
+        "course-99",
+        "course-467",
+        "course-481",
+        "course-484",
+        "course-513",
+        "course-514",
+        "course-515",
+        "course-516",
+        "course-533"
+    ],
+    "dirección": [
+        "course-81",
+        "course-199",
+        "course-479",
+        "course-638",
+        "course-643"
+    ],
+    "eficiencia": [
+        "course-82",
+        "course-157",
+        "course-214",
+        "course-248",
+        "course-599"
+    ],
+    "energética": [
+        "course-82",
+        "course-157",
+        "course-599"
+    ],
+    "edificaciones": [
+        "course-82",
+        "course-121",
+        "course-157",
+        "course-599"
+    ],
+    "bim": [
+        "course-82",
+        "course-98",
+        "course-157",
+        "course-450",
+        "course-599"
+    ],
+    "practica": [
+        "course-83",
+        "course-192"
+    ],
+    "orquestal": [
+        "course-83",
+        "course-192"
+    ],
+    "juvenil": [
+        "course-83",
+        "course-329",
+        "course-619"
+    ],
+    "laboratorio": [
+        "course-84",
+        "course-104",
+        "course-105",
+        "course-340",
+        "course-470"
+    ],
+    "experimentación": [
+        "course-84",
+        "course-340"
+    ],
+    "artística": [
+        "course-84",
+        "course-174"
+    ],
+    "performativas": [
+        "course-84"
+    ],
+    "improvisación": [
+        "course-84",
+        "course-451"
+    ],
+    "composición": [
+        "course-84",
+        "course-458",
+        "course-680"
+    ],
+    "creación": [
+        "course-84",
+        "course-147",
+        "course-150",
+        "course-205",
+        "course-332",
+        "course-340",
+        "course-468",
+        "course-636",
+        "course-638"
+    ],
+    "animal": [
+        "course-85"
+    ],
+    "pqrs": [
+        "course-86"
+    ],
+    "forma": [
+        "course-86",
+        "course-407"
+    ],
+    "retener": [
+        "course-86"
+    ],
+    "clientes": [
+        "course-86",
+        "course-556"
+    ],
+    "disciplinario": [
+        "course-87",
+        "course-312"
+    ],
+    "ley": [
+        "course-87",
+        "course-93",
+        "course-287",
+        "course-312",
+        "course-416"
+    ],
+    "1952": [
+        "course-87",
+        "course-312"
+    ],
+    "2094": [
+        "course-87",
+        "course-312"
+    ],
+    "implicaciones": [
+        "course-88"
+    ],
+    "estratégicas": [
+        "course-88",
+        "course-188"
+    ],
+    "administración": [
+        "course-89",
+        "course-417",
+        "course-424",
+        "course-545",
+        "course-548"
+    ],
+    "riesgo": [
+        "course-89",
+        "course-405",
+        "course-424",
+        "course-510",
+        "course-525",
+        "course-640",
+        "course-658"
+    ],
+    "forense": [
+        "course-89",
+        "course-200"
+    ],
+    "aplicación": [
+        "course-90",
+        "course-238",
+        "course-293"
+    ],
+    "interpretación": [
+        "course-90",
+        "course-293"
+    ],
+    "pruebas": [
+        "course-90"
+    ],
+    "psicológicas": [
+        "course-90"
+    ],
+    "secop": [
+        "course-91",
+        "course-607"
+    ],
+    "comerciales": [
+        "course-92",
+        "course-467"
+    ],
+    "venta": [
+        "course-92",
+        "course-467"
+    ],
+    "fundamentos": [
+        "course-93",
+        "course-286",
+        "course-308",
+        "course-314",
+        "course-457",
+        "course-472",
+        "course-661",
+        "course-679"
+    ],
+    "resolución": [
+        "course-93",
+        "course-111",
+        "course-499"
+    ],
+    "conflictos": [
+        "course-93",
+        "course-97",
+        "course-499"
+    ],
+    "bajo": [
+        "course-93"
+    ],
+    "675": [
+        "course-93"
+    ],
+    "2001": [
+        "course-93"
+    ],
+    "planes": [
+        "course-94",
+        "course-449"
+    ],
+    "integrales": [
+        "course-94",
+        "course-449"
+    ],
+    "ejercicio": [
+        "course-94"
+    ],
+    "bienestar": [
+        "course-94",
+        "course-220",
+        "course-283",
+        "course-299"
+    ],
+    "análisis": [
+        "course-95",
+        "course-137",
+        "course-162",
+        "course-212",
+        "course-380",
+        "course-470",
+        "course-510",
+        "course-561",
+        "course-568",
+        "course-645"
+    ],
+    "metodologías": [
+        "course-96",
+        "course-304",
+        "course-379",
+        "course-453",
+        "course-627"
+    ],
+    "ágiles": [
+        "course-96",
+        "course-304",
+        "course-627"
+    ],
+    "incrementar": [
+        "course-96",
+        "course-407"
+    ],
+    "mundo": [
+        "course-97",
+        "course-174",
+        "course-244",
+        "course-343",
+        "course-463"
+    ],
+    "rural": [
+        "course-97"
+    ],
+    "territoriales": [
+        "course-97"
+    ],
+    "agrarios": [
+        "course-97"
+    ],
+    "ordinarios": [
+        "course-97"
+    ],
+    "restitución": [
+        "course-97"
+    ],
+    "tierras": [
+        "course-97"
+    ],
+    "jurisdicción": [
+        "course-97"
+    ],
+    "agraria": [
+        "course-97"
+    ],
+    "entrega": [
+        "course-98"
+    ],
+    "neuroergonomía": [
+        "course-99"
+    ],
+    "cognitivas": [
+        "course-99"
+    ],
+    "fortalecer": [
+        "course-99"
+    ],
+    "organizaciones": [
+        "course-99",
+        "course-280"
+    ],
+    "accesos": [
+        "course-100"
+    ],
+    "vasculares": [
+        "course-100"
+    ],
+    "seguros": [
+        "course-100",
+        "course-317",
+        "course-398"
+    ],
+    "guiados": [
+        "course-100"
+    ],
+    "por": [
+        "course-100",
+        "course-163",
+        "course-165",
+        "course-177",
+        "course-296",
+        "course-397",
+        "course-425",
+        "course-469",
+        "course-470",
+        "course-554"
+    ],
+    "ultrasonografia": [
+        "course-100"
+    ],
+    "comunicación": [
+        "course-101",
+        "course-124",
+        "course-131",
+        "course-134",
+        "course-153",
+        "course-232",
+        "course-261",
+        "course-282",
+        "course-283",
+        "course-456",
+        "course-629",
+        "course-631",
+        "course-640"
+    ],
+    "estrategias": [
+        "course-101",
+        "course-278",
+        "course-301",
+        "course-319",
+        "course-399",
+        "course-564",
+        "course-632",
+        "course-652"
+    ],
+    "precios": [
+        "course-102"
+    ],
+    "transferencia": [
+        "course-102"
+    ],
+    "ortografía": [
+        "course-103"
+    ],
+    "calidad": [
+        "course-104",
+        "course-105",
+        "course-268",
+        "course-433"
+    ],
+    "énfasis": [
+        "course-104",
+        "course-105",
+        "course-141",
+        "course-409",
+        "course-435",
+        "course-553",
+        "course-557",
+        "course-572",
+        "course-650"
+    ],
+    "bancos": [
+        "course-104"
+    ],
+    "sangre": [
+        "course-104"
+    ],
+    "laboratorios": [
+        "course-105"
+    ],
+    "clínicos": [
+        "course-105"
+    ],
+    "qué": [
+        "course-106",
+        "course-202"
+    ],
+    "debemos": [
+        "course-106",
+        "course-202"
+    ],
+    "saber": [
+        "course-106",
+        "course-202",
+        "course-243",
+        "course-318",
+        "course-386"
+    ],
+    "2025": [
+        "course-106",
+        "course-155",
+        "course-202"
+    ],
+    "barranquilla": [
+        "course-106",
+        "course-126",
+        "course-127",
+        "course-129",
+        "course-130",
+        "course-131",
+        "course-184",
+        "course-197",
+        "course-210",
+        "course-342",
+        "course-343",
+        "course-548",
+        "course-551",
+        "course-554",
+        "course-591",
+        "course-643"
+    ],
+    "urbano": [
+        "course-107",
+        "course-273",
+        "course-411"
+    ],
+    "medellin": [
+        "course-107"
+    ],
+    "python": [
+        "course-108",
+        "course-167",
+        "course-535",
+        "course-568"
+    ],
+    "básicas": [
+        "course-108",
+        "course-514"
+    ],
+    "programación": [
+        "course-108"
+    ],
+    "radioprotección": [
+        "course-111"
+    ],
+    "radiología": [
+        "course-111"
+    ],
+    "seguridad": [
+        "course-111",
+        "course-175",
+        "course-176",
+        "course-249",
+        "course-269",
+        "course-270",
+        "course-353",
+        "course-354",
+        "course-402",
+        "course-424",
+        "course-449",
+        "course-532",
+        "course-540"
+    ],
+    "odontológica": [
+        "course-111"
+    ],
+    "482": [
+        "course-111"
+    ],
+    "marketing": [
+        "course-112",
+        "course-124",
+        "course-131",
+        "course-152",
+        "course-169",
+        "course-261",
+        "course-289",
+        "course-319",
+        "course-347",
+        "course-397",
+        "course-407",
+        "course-430",
+        "course-546",
+        "course-648"
+    ],
+    "estratégico": [
+        "course-112",
+        "course-169",
+        "course-259",
+        "course-498",
+        "course-645"
+    ],
+    "avalúos": [
+        "course-113"
+    ],
+    "valoraciones": [
+        "course-113"
+    ],
+    "inmobiliarias": [
+        "course-113"
+    ],
+    "urbanas": [
+        "course-113"
+    ],
+    "rurales": [
+        "course-113"
+    ],
+    "estructuración": [
+        "course-115",
+        "course-187"
+    ],
+    "inmobiliarios": [
+        "course-115"
+    ],
+    "guía": [
+        "course-115",
+        "course-659"
+    ],
+    "arquitectos": [
+        "course-115"
+    ],
+    "nutrición": [
+        "course-116",
+        "course-443"
+    ],
+    "mental": [
+        "course-116"
+    ],
+    "comunicar": [
+        "course-117"
+    ],
+    "inspirado": [
+        "course-117"
+    ],
+    "técnicas": [
+        "course-117",
+        "course-233",
+        "course-278",
+        "course-401",
+        "course-415",
+        "course-419",
+        "course-611",
+        "course-663"
+    ],
+    "teatrales": [
+        "course-117"
+    ],
+    "inclusiva": [
+        "course-119"
+    ],
+    "atención": [
+        "course-119",
+        "course-127",
+        "course-208",
+        "course-338",
+        "course-352",
+        "course-362",
+        "course-367",
+        "course-555",
+        "course-676",
+        "course-686"
+    ],
+    "educativa": [
+        "course-119",
+        "course-348",
+        "course-511"
+    ],
+    "población": [
+        "course-119",
+        "course-446"
+    ],
+    "discapacidad": [
+        "course-119"
+    ],
+    "frugal": [
+        "course-120"
+    ],
+    "crear": [
+        "course-120",
+        "course-238"
+    ],
+    "valor": [
+        "course-120",
+        "course-346",
+        "course-475"
+    ],
+    "menos": [
+        "course-120"
+    ],
+    "recursos": [
+        "course-120"
+    ],
+    "más": [
+        "course-120",
+        "course-163",
+        "course-530"
+    ],
+    "impacto": [
+        "course-120",
+        "course-126",
+        "course-187",
+        "course-294",
+        "course-673"
+    ],
+    "supervisión": [
+        "course-121"
+    ],
+    "técnica": [
+        "course-121",
+        "course-370"
+    ],
+    "inmobiliaria": [
+        "course-122",
+        "course-160"
+    ],
+    "formación": [
+        "course-123",
+        "course-130",
+        "course-156",
+        "course-213",
+        "course-280",
+        "course-310",
+        "course-326",
+        "course-370",
+        "course-454",
+        "course-554",
+        "course-667"
+    ],
+    "programa": [
+        "course-123",
+        "course-271"
+    ],
+    "reactivovigilancia": [
+        "course-123"
+    ],
+    "prestadores": [
+        "course-123"
+    ],
+    "político": [
+        "course-124",
+        "course-152",
+        "course-261"
+    ],
+    "tributario": [
+        "course-125",
+        "course-219",
+        "course-605"
+    ],
+    "probatorio": [
+        "course-125"
+    ],
+    "auditoria": [
+        "course-126",
+        "course-580",
+        "course-673"
+    ],
+    "interna": [
+        "course-126",
+        "course-134",
+        "course-193",
+        "course-673"
+    ],
+    "humanizacion": [
+        "course-127"
+    ],
+    "médica": [
+        "course-127"
+    ],
+    "comercio": [
+        "course-129",
+        "course-251",
+        "course-303",
+        "course-387"
+    ],
+    "exterior": [
+        "course-129",
+        "course-251",
+        "course-303",
+        "course-387"
+    ],
+    "aduanero": [
+        "course-129",
+        "course-303"
+    ],
+    "emprendimiento": [
+        "course-129",
+        "course-303",
+        "course-434"
+    ],
+    "exportador": [
+        "course-129"
+    ],
+    "wedding": [
+        "course-130",
+        "course-156",
+        "course-213"
+    ],
+    "planner": [
+        "course-130",
+        "course-156",
+        "course-213"
+    ],
+    "politico": [
+        "course-131"
+    ],
+    "legislación": [
+        "course-133"
+    ],
+    "electoral": [
+        "course-133"
+    ],
+    "función": [
+        "course-134",
+        "course-625"
+    ],
+    "estratégica": [
+        "course-134",
+        "course-232",
+        "course-245",
+        "course-266",
+        "course-406",
+        "course-465",
+        "course-501",
+        "course-551"
+    ],
+    "sostenibilidad": [
+        "course-135",
+        "course-252",
+        "course-375",
+        "course-399",
+        "course-428",
+        "course-494",
+        "course-595",
+        "course-652"
+    ],
+    "clima": [
+        "course-135"
+    ],
+    "formando": [
+        "course-136"
+    ],
+    "formadores": [
+        "course-136"
+    ],
+    "cristianismo": [
+        "course-136"
+    ],
+    "día": [
+        "course-136"
+    ],
+    "introducción": [
+        "course-137",
+        "course-190",
+        "course-337",
+        "course-385",
+        "course-394",
+        "course-436",
+        "course-455",
+        "course-465",
+        "course-466",
+        "course-524",
+        "course-525",
+        "course-544",
+        "course-547",
+        "course-574",
+        "course-662"
+    ],
+    "estadísticos": [
+        "course-137",
+        "course-316"
+    ],
+    "aplicados": [
+        "course-137"
+    ],
+    "investigación": [
+        "course-137",
+        "course-203",
+        "course-272",
+        "course-296",
+        "course-320",
+        "course-349",
+        "course-376",
+        "course-453",
+        "course-685"
+    ],
+    "método": [
+        "course-138"
+    ],
+    "madre": [
+        "course-138"
+    ],
+    "canguro": [
+        "course-138"
+    ],
+    "talento": [
+        "course-139"
+    ],
+    "humano": [
+        "course-139",
+        "course-514"
+    ],
+    "control": [
+        "course-140",
+        "course-193",
+        "course-280",
+        "course-352",
+        "course-433",
+        "course-611"
+    ],
+    "costos": [
+        "course-140",
+        "course-551"
+    ],
+    "revenue": [
+        "course-140"
+    ],
+    "management": [
+        "course-140",
+        "course-267",
+        "course-270",
+        "course-331",
+        "course-354",
+        "course-405",
+        "course-644"
+    ],
+    "rentabilizar": [
+        "course-140"
+    ],
+    "societario": [
+        "course-143",
+        "course-388",
+        "course-586",
+        "course-606"
+    ],
+    "jurisprudencial": [
+        "course-144"
+    ],
+    "materia": [
+        "course-144"
+    ],
+    "normatividad": [
+        "course-145"
+    ],
+    "protección": [
+        "course-145",
+        "course-186",
+        "course-244",
+        "course-343",
+        "course-445",
+        "course-624"
+    ],
+    "consumidor": [
+        "course-145"
+    ],
+    "financiero": [
+        "course-145",
+        "course-510"
+    ],
+    "inversiones": [
+        "course-146"
+    ],
+    "mercado": [
+        "course-146"
+    ],
+    "capitales": [
+        "course-146"
+    ],
+    "podcasting": [
+        "course-147"
+    ],
+    "sonoras": [
+        "course-147"
+    ],
+    "acciones": [
+        "course-148"
+    ],
+    "educativas": [
+        "course-148"
+    ],
+    "implementación": [
+        "course-148",
+        "course-308",
+        "course-378",
+        "course-563",
+        "course-609"
+    ],
+    "pacto": [
+        "course-148"
+    ],
+    "educativo": [
+        "course-148",
+        "course-327",
+        "course-466",
+        "course-468",
+        "course-469",
+        "course-647"
+    ],
+    "escribir": [
+        "course-149",
+        "course-235",
+        "course-329"
+    ],
+    "publicar": [
+        "course-149"
+    ],
+    "ciencias": [
+        "course-149",
+        "course-364"
+    ],
+    "audiovisuales": [
+        "course-150"
+    ],
+    "remediaciones": [
+        "course-150"
+    ],
+    "abogados": [
+        "course-151",
+        "course-630"
+    ],
+    "ética": [
+        "course-151",
+        "course-280",
+        "course-409",
+        "course-452",
+        "course-620",
+        "course-635"
+    ],
+    "imagen": [
+        "course-152",
+        "course-245"
+    ],
+    "medios": [
+        "course-153",
+        "course-609"
+    ],
+    "persuasión": [
+        "course-153"
+    ],
+    "política": [
+        "course-153"
+    ],
+    "sur": [
+        "course-155",
+        "course-253"
+    ],
+    "occidente": [
+        "course-155",
+        "course-177",
+        "course-242",
+        "course-253"
+    ],
+    "pasto": [
+        "course-158",
+        "course-578",
+        "course-581",
+        "course-633"
+    ],
+    "diplomáticos": [
+        "course-159"
+    ],
+    "sostenibles": [
+        "course-160",
+        "course-163",
+        "course-280",
+        "course-496",
+        "course-563"
+    ],
+    "finance": [
+        "course-161"
+    ],
+    "estructurando": [
+        "course-161"
+    ],
+    "transforman": [
+        "course-161"
+    ],
+    "territorios": [
+        "course-161"
+    ],
+    "monitoreo": [
+        "course-162",
+        "course-589"
+    ],
+    "mejora": [
+        "course-162"
+    ],
+    "inmersión": [
+        "course-163"
+    ],
+    "edificios": [
+        "course-163"
+    ],
+    "icónicos": [
+        "course-163"
+    ],
+    "bogotá": [
+        "course-163"
+    ],
+    "colombia": [
+        "course-163",
+        "course-236",
+        "course-378",
+        "course-639"
+    ],
+    "acompañamiento": [
+        "course-165",
+        "course-207",
+        "course-215",
+        "course-469"
+    ],
+    "espiritual": [
+        "course-165",
+        "course-215",
+        "course-302"
+    ],
+    "duelo": [
+        "course-165",
+        "course-215"
+    ],
+    "pérdida": [
+        "course-165"
+    ],
+    "seres": [
+        "course-165"
+    ],
+    "queridos": [
+        "course-165"
+    ],
+    "dominando": [
+        "course-166"
+    ],
+    "365": [
+        "course-166"
+    ],
+    "potencia": [
+        "course-166"
+    ],
+    "trabajo": [
+        "course-166",
+        "course-379",
+        "course-526",
+        "course-532",
+        "course-550"
+    ],
+    "nube": [
+        "course-166"
+    ],
+    "esenciales": [
+        "course-167"
+    ],
+    "analistas": [
+        "course-167"
+    ],
+    "líderes": [
+        "course-168",
+        "course-540"
+    ],
+    "empresariales": [
+        "course-168"
+    ],
+    "moderno": [
+        "course-169"
+    ],
+    "conoce": [
+        "course-169"
+    ],
+    "nuevas": [
+        "course-169",
+        "course-375"
+    ],
+    "acelerar": [
+        "course-169"
+    ],
+    "resultados": [
+        "course-169",
+        "course-225"
+    ],
+    "music": [
+        "course-170",
+        "course-677"
+    ],
+    "masters": [
+        "course-170",
+        "course-677"
+    ],
+    "música": [
+        "course-170",
+        "course-410",
+        "course-634",
+        "course-677",
+        "course-680"
+    ],
+    "entretenimiento": [
+        "course-170",
+        "course-677"
+    ],
+    "máster": [
+        "course-171"
+    ],
+    "mindful": [
+        "course-172"
+    ],
+    "eating": [
+        "course-172"
+    ],
+    "botánica": [
+        "course-173"
+    ],
+    "ilustrada": [
+        "course-173",
+        "course-181"
+    ],
+    "propiedades": [
+        "course-173"
+    ],
+    "sketchbook": [
+        "course-173"
+    ],
+    "descubriendo": [
+        "course-174"
+    ],
+    "collage": [
+        "course-174"
+    ],
+    "exploración": [
+        "course-174",
+        "course-276"
+    ],
+    "niños": [
+        "course-174",
+        "course-329",
+        "course-692"
+    ],
+    "adolescentes": [
+        "course-174"
+    ],
+    "social": [
+        "course-175",
+        "course-176",
+        "course-187",
+        "course-366",
+        "course-391",
+        "course-392",
+        "course-515",
+        "course-576",
+        "course-587",
+        "course-636"
+    ],
+    "amores": [
+        "course-177"
+    ],
+    "recorrido": [
+        "course-177"
+    ],
+    "cultural": [
+        "course-177",
+        "course-516"
+    ],
+    "amor": [
+        "course-177",
+        "course-242"
+    ],
+    "romántico": [
+        "course-177",
+        "course-242"
+    ],
+    "reducción": [
+        "course-178"
+    ],
+    "estrés": [
+        "course-178"
+    ],
+    "explorando": [
+        "course-179"
+    ],
+    "cerebro": [
+        "course-179"
+    ],
+    "neurociencia": [
+        "course-179"
+    ],
+    "clínica": [
+        "course-179",
+        "course-255",
+        "course-565",
+        "course-623"
+    ],
+    "cognitiva": [
+        "course-179"
+    ],
+    "musicalidad": [
+        "course-180"
+    ],
+    "piano": [
+        "course-180"
+    ],
+    "fauna": [
+        "course-181"
+    ],
+    "extinción": [
+        "course-183"
+    ],
+    "dominio": [
+        "course-183"
+    ],
+    "personales": [
+        "course-186"
+    ],
+    "habeas": [
+        "course-186"
+    ],
+    "data": [
+        "course-186",
+        "course-284"
+    ],
+    "financiación": [
+        "course-187"
+    ],
+    "esg": [
+        "course-187"
+    ],
+    "ambiental": [
+        "course-187",
+        "course-361",
+        "course-426",
+        "course-595"
+    ],
+    "gobernanza": [
+        "course-187",
+        "course-402"
+    ],
+    "comunicaciones": [
+        "course-188",
+        "course-441"
+    ],
+    "excel": [
+        "course-189",
+        "course-212",
+        "course-275",
+        "course-435"
+    ],
+    "traducción": [
+        "course-190"
+    ],
+    "didáctica": [
+        "course-191",
+        "course-385"
+    ],
+    "imaginarios": [
+        "course-191"
+    ],
+    "infantil": [
+        "course-192",
+        "course-329"
+    ],
+    "urgencias": [
+        "course-194",
+        "course-197",
+        "course-555"
+    ],
+    "edad": [
+        "course-194"
+    ],
+    "escolar": [
+        "course-194"
+    ],
+    "presentación": [
+        "course-195"
+    ],
+    "ejecución": [
+        "course-195",
+        "course-306",
+        "course-395"
+    ],
+    "regalías": [
+        "course-195"
+    ],
+    "enfoque": [
+        "course-196",
+        "course-203",
+        "course-274"
+    ],
+    "desarrollo": [
+        "course-196",
+        "course-447",
+        "course-449",
+        "course-451",
+        "course-572"
+    ],
+    "territorial": [
+        "course-196",
+        "course-449"
+    ],
+    "medicas": [
+        "course-197"
+    ],
+    "puerta": [
+        "course-198",
+        "course-239"
+    ],
+    "entrada": [
+        "course-198",
+        "course-239"
+    ],
+    "microhistoria": [
+        "course-198",
+        "course-239"
+    ],
+    "teatro": [
+        "course-199",
+        "course-276"
+    ],
+    "procedimiento": [
+        "course-200",
+        "course-287"
+    ],
+    "técnico": [
+        "course-200",
+        "course-409"
+    ],
+    "recolección": [
+        "course-200"
+    ],
+    "evidencias": [
+        "course-200"
+    ],
+    "ciencia": [
+        "course-203"
+    ],
+    "vende": [
+        "course-204"
+    ],
+    "crea": [
+        "course-204",
+        "course-350",
+        "course-351"
+    ],
+    "marca": [
+        "course-204"
+    ],
+    "personal": [
+        "course-204",
+        "course-360",
+        "course-491"
+    ],
+    "memorable": [
+        "course-204"
+    ],
+    "animación": [
+        "course-206"
+    ],
+    "experimental": [
+        "course-206",
+        "course-291"
+    ],
+    "discernimiento": [
+        "course-207"
+    ],
+    "perspectivas": [
+        "course-207",
+        "course-209"
+    ],
+    "bíblica": [
+        "course-207",
+        "course-302"
+    ],
+    "teológica": [
+        "course-207"
+    ],
+    "pedagógica": [
+        "course-207",
+        "course-348",
+        "course-507"
+    ],
+    "tecnológica": [
+        "course-207",
+        "course-502"
+    ],
+    "restaurantes": [
+        "course-208",
+        "course-545",
+        "course-548"
+    ],
+    "mejorando": [
+        "course-208"
+    ],
+    "experiencia": [
+        "course-208",
+        "course-430",
+        "course-571",
+        "course-591",
+        "course-612"
+    ],
+    "menú": [
+        "course-208"
+    ],
+    "migraciones": [
+        "course-209",
+        "course-588",
+        "course-590"
+    ],
+    "socioambientales": [
+        "course-209"
+    ],
+    "climáticas": [
+        "course-209"
+    ],
+    "realidades": [
+        "course-209"
+    ],
+    "regionales": [
+        "course-209"
+    ],
+    "globales": [
+        "course-209"
+    ],
+    "people": [
+        "course-210"
+    ],
+    "analytics": [
+        "course-210"
+    ],
+    "humana": [
+        "course-210"
+    ],
+    "poder": [
+        "course-211",
+        "course-282",
+        "course-382"
+    ],
+    "crianza": [
+        "course-211",
+        "course-687"
+    ],
+    "conexión": [
+        "course-211"
+    ],
+    "access": [
+        "course-212"
+    ],
+    "reportes": [
+        "course-212"
+    ],
+    "efectivos": [
+        "course-212"
+    ],
+    "cromatografía": [
+        "course-214"
+    ],
+    "líquida": [
+        "course-214"
+    ],
+    "hplc": [
+        "course-214"
+    ],
+    "gases": [
+        "course-214"
+    ],
+    "intermedio": [
+        "course-216",
+        "course-275"
+    ],
+    "customer": [
+        "course-217"
+    ],
+    "experience": [
+        "course-217"
+    ],
+    "desafío": [
+        "course-217"
+    ],
+    "generar": [
+        "course-217"
+    ],
+    "experiencias": [
+        "course-217",
+        "course-564",
+        "course-660"
+    ],
+    "inolvidables": [
+        "course-217"
+    ],
+    "simulación": [
+        "course-218",
+        "course-367",
+        "course-565"
+    ],
+    "código": [
+        "course-218",
+        "course-287",
+        "course-296"
+    ],
+    "rojo": [
+        "course-218"
+    ],
+    "colombiano": [
+        "course-219",
+        "course-653"
+    ],
+    "teoría": [
+        "course-219",
+        "course-542"
+    ],
+    "psicología": [
+        "course-220",
+        "course-313"
+    ],
+    "positiva": [
+        "course-220"
+    ],
+    "individual": [
+        "course-220",
+        "course-463"
+    ],
+    "positivos": [
+        "course-220"
+    ],
+    "competencias": [
+        "course-221",
+        "course-506",
+        "course-507",
+        "course-508",
+        "course-509",
+        "course-511"
+    ],
+    "emocionales": [
+        "course-221",
+        "course-533"
+    ],
+    "creare": [
+        "course-221"
+    ],
+    "inserción": [
+        "course-223"
+    ],
+    "implante": [
+        "course-223"
+    ],
+    "subdérmico": [
+        "course-223"
+    ],
+    "dispositivo": [
+        "course-223"
+    ],
+    "intrauterino": [
+        "course-223"
+    ],
+    "diu": [
+        "course-223"
+    ],
+    "reanimación": [
+        "course-224"
+    ],
+    "cardiopulmonar": [
+        "course-224"
+    ],
+    "neonatal": [
+        "course-224",
+        "course-427"
+    ],
+    "propósito": [
+        "course-225"
+    ],
+    "confianza": [
+        "course-225"
+    ],
+    "sectorial": [
+        "course-226"
+    ],
+    "rol": [
+        "course-227"
+    ],
+    "mujeres": [
+        "course-227",
+        "course-366"
+    ],
+    "cartas": [
+        "course-227"
+    ],
+    "católicas": [
+        "course-227"
+    ],
+    "continuidad": [
+        "course-227"
+    ],
+    "ruptura": [
+        "course-227"
+    ],
+    "patriarcalismo": [
+        "course-227"
+    ],
+    "siglo": [
+        "course-227"
+    ],
+    "cuidado": [
+        "course-228",
+        "course-258",
+        "course-363",
+        "course-370",
+        "course-568"
+    ],
+    "adulto": [
+        "course-228",
+        "course-370"
+    ],
+    "mayor": [
+        "course-228",
+        "course-370"
+    ],
+    "cuidadores": [
+        "course-228",
+        "course-370"
+    ],
+    "formales": [
+        "course-228"
+    ],
+    "expresión": [
+        "course-230",
+        "course-408"
+    ],
+    "oral": [
+        "course-230",
+        "course-292",
+        "course-408",
+        "course-412",
+        "course-663"
+    ],
+    "renta": [
+        "course-231",
+        "course-659"
+    ],
+    "personas": [
+        "course-231"
+    ],
+    "naturales": [
+        "course-231"
+    ],
+    "asertiva": [
+        "course-232",
+        "course-629",
+        "course-631"
+    ],
+    "directivos": [
+        "course-232",
+        "course-327",
+        "course-474",
+        "course-631"
+    ],
+    "experimentales": [
+        "course-233"
+    ],
+    "analógicas": [
+        "course-233"
+    ],
+    "fotografía": [
+        "course-233",
+        "course-297",
+        "course-377",
+        "course-537",
+        "course-675",
+        "course-688"
+    ],
+    "pública": [
+        "course-234",
+        "course-358",
+        "course-361",
+        "course-409",
+        "course-452",
+        "course-575",
+        "course-577",
+        "course-604",
+        "course-623",
+        "course-625",
+        "course-626",
+        "course-689"
+    ],
+    "leer": [
+        "course-235"
+    ],
+    "nota": [
+        "course-235"
+    ],
+    "movilidad": [
+        "course-236"
+    ],
+    "corporativa": [
+        "course-236"
+    ],
+    "aspectos": [
+        "course-236"
+    ],
+    "laborales": [
+        "course-236",
+        "course-624"
+    ],
+    "tributarios": [
+        "course-236"
+    ],
+    "migratorios": [
+        "course-236"
+    ],
+    "blockchain": [
+        "course-237"
+    ],
+    "criptoactivos": [
+        "course-237"
+    ],
+    "descentralizadas": [
+        "course-237",
+        "course-266"
+    ],
+    "juego": [
+        "course-238"
+    ],
+    "histórico": [
+        "course-238"
+    ],
+    "interactivas": [
+        "course-238"
+    ],
+    "educar": [
+        "course-238"
+    ],
+    "materiales": [
+        "course-240",
+        "course-419"
+    ],
+    "ropa": [
+        "course-240"
+    ],
+    "revisión": [
+        "course-240"
+    ],
+    "desde": [
+        "course-240",
+        "course-279",
+        "course-295",
+        "course-334",
+        "course-364",
+        "course-366",
+        "course-371",
+        "course-384",
+        "course-476",
+        "course-571",
+        "course-686"
+    ],
+    "cotidianidad": [
+        "course-240"
+    ],
+    "pantalla": [
+        "course-241"
+    ],
+    "flechas": [
+        "course-242"
+    ],
+    "corazones": [
+        "course-242"
+    ],
+    "prueba": [
+        "course-243",
+        "course-318",
+        "course-386"
+    ],
+    "madrid": [
+        "course-243"
+    ],
+    "cundinamarca": [
+        "course-243"
+    ],
+    "ciberseguridad": [
+        "course-244",
+        "course-343"
+    ],
+    "humanización": [
+        "course-246"
+    ],
+    "prestación": [
+        "course-246"
+    ],
+    "servicios": [
+        "course-246",
+        "course-345"
+    ],
+    "auténtico": [
+        "course-247"
+    ],
+    "eleva": [
+        "course-247"
+    ],
+    "conciencia": [
+        "course-247"
+    ],
+    "transforma": [
+        "course-247"
+    ],
+    "svb": [
+        "course-250",
+        "course-678"
+    ],
+    "scva": [
+        "course-250",
+        "course-678"
+    ],
+    "aha": [
+        "course-250",
+        "course-678"
+    ],
+    "aduanera": [
+        "course-251",
+        "course-387"
+    ],
+    "decreto": [
+        "course-251",
+        "course-387",
+        "course-396",
+        "course-409"
+    ],
+    "659": [
+        "course-251",
+        "course-387"
+    ],
+    "reporte": [
+        "course-252"
+    ],
+    "contable": [
+        "course-252",
+        "course-650"
+    ],
+    "orientación": [
+        "course-253",
+        "course-521",
+        "course-522",
+        "course-690"
+    ],
+    "terapias": [
+        "course-254"
+    ],
+    "psicodinámico": [
+        "course-255"
+    ],
+    "entrevista": [
+        "course-255"
+    ],
+    "argumentación": [
+        "course-256"
+    ],
+    "lecciones": [
+        "course-257"
+    ],
+    "bhagavad": [
+        "course-257"
+    ],
+    "gita": [
+        "course-257"
+    ],
+    "tratado": [
+        "course-257"
+    ],
+    "esencial": [
+        "course-257"
+    ],
+    "yoga": [
+        "course-257",
+        "course-613"
+    ],
+    "crítico": [
+        "course-258"
+    ],
+    "rentas": [
+        "course-259",
+        "course-413"
+    ],
+    "cortas": [
+        "course-259",
+        "course-413"
+    ],
+    "usar": [
+        "course-260"
+    ],
+    "aumentar": [
+        "course-260"
+    ],
+    "nuestra": [
+        "course-260"
+    ],
+    "empresas": [
+        "course-265",
+        "course-399",
+        "course-404"
+    ],
+    "hoteleras": [
+        "course-265"
+    ],
+    "alojamiento": [
+        "course-265"
+    ],
+    "tecnologías": [
+        "course-266",
+        "course-284",
+        "course-375",
+        "course-421",
+        "course-431"
+    ],
+    "sb5": [
+        "course-267"
+    ],
+    "threat": [
+        "course-267"
+    ],
+    "and": [
+        "course-267",
+        "course-400",
+        "course-600",
+        "course-617"
+    ],
+    "error": [
+        "course-267"
+    ],
+    "amenazas": [
+        "course-267"
+    ],
+    "errores": [
+        "course-267",
+        "course-368"
+    ],
+    "tem": [
+        "course-267"
+    ],
+    "sa2": [
+        "course-268"
+    ],
+    "aviation": [
+        "course-268",
+        "course-354",
+        "course-400",
+        "course-401"
+    ],
+    "quality": [
+        "course-268"
+    ],
+    "auditor": [
+        "course-268"
+    ],
+    "aviación": [
+        "course-268",
+        "course-400",
+        "course-401"
+    ],
+    "sb4": [
+        "course-269"
+    ],
+    "safety": [
+        "course-269",
+        "course-270",
+        "course-353",
+        "course-354",
+        "course-402"
+    ],
+    "performance": [
+        "course-269",
+        "course-611"
+    ],
+    "indicators": [
+        "course-269"
+    ],
+    "sms": [
+        "course-269",
+        "course-354"
+    ],
+    "desempeño": [
+        "course-269"
+    ],
+    "sb2": [
+        "course-270"
+    ],
+    "system": [
+        "course-270"
+    ],
+    "resilience": [
+        "course-270"
+    ],
+    "resiliencia": [
+        "course-270",
+        "course-393"
+    ],
+    "sa3": [
+        "course-271"
+    ],
+    "emergency": [
+        "course-271"
+    ],
+    "response": [
+        "course-271"
+    ],
+    "planning": [
+        "course-271",
+        "course-402"
+    ],
+    "respuesta": [
+        "course-271"
+    ],
+    "emergencia": [
+        "course-271"
+    ],
+    "crisis": [
+        "course-271",
+        "course-463",
+        "course-640",
+        "course-658"
+    ],
+    "sa1": [
+        "course-272"
+    ],
+    "advanced": [
+        "course-272",
+        "course-617",
+        "course-644"
+    ],
+    "incident": [
+        "course-272"
+    ],
+    "investigation": [
+        "course-272"
+    ],
+    "capacitación": [
+        "course-272",
+        "course-567"
+    ],
+    "avanzada": [
+        "course-272",
+        "course-675"
+    ],
+    "incidentes": [
+        "course-272"
+    ],
+    "pmi": [
+        "course-274",
+        "course-331",
+        "course-472"
+    ],
+    "herramienta": [
+        "course-275",
+        "course-290",
+        "course-448"
+    ],
+    "clave": [
+        "course-275",
+        "course-513"
+    ],
+    "emociones": [
+        "course-276",
+        "course-321",
+        "course-602"
+    ],
+    "voz": [
+        "course-276",
+        "course-613",
+        "course-628"
+    ],
+    "escena": [
+        "course-276"
+    ],
+    "sensorial": [
+        "course-276"
+    ],
+    "restauración": [
+        "course-278",
+        "course-587",
+        "course-589",
+        "course-679"
+    ],
+    "ecológica": [
+        "course-278",
+        "course-587",
+        "course-589",
+        "course-679"
+    ],
+    "ecosistemas": [
+        "course-278"
+    ],
+    "terrestres": [
+        "course-278"
+    ],
+    "produciendo": [
+        "course-279"
+    ],
+    "mezcla": [
+        "course-279",
+        "course-611"
+    ],
+    "mezclando": [
+        "course-279"
+    ],
+    "musical": [
+        "course-279",
+        "course-458",
+        "course-581"
+    ],
+    "cumplimiento": [
+        "course-280"
+    ],
+    "empresarial": [
+        "course-280",
+        "course-399",
+        "course-452",
+        "course-652",
+        "course-653",
+        "course-655",
+        "course-674",
+        "course-682"
+    ],
+    "especializada": [
+        "course-280"
+    ],
+    "liderar": [
+        "course-280"
+    ],
+    "éticas": [
+        "course-280"
+    ],
+    "resilientes": [
+        "course-280"
+    ],
+    "teatral": [
+        "course-281",
+        "course-451"
+    ],
+    "escenografía": [
+        "course-281"
+    ],
+    "iluminación": [
+        "course-281"
+    ],
+    "vestuario": [
+        "course-281"
+    ],
+    "efectiva": [
+        "course-282"
+    ],
+    "verbal": [
+        "course-282"
+    ],
+    "procesamiento": [
+        "course-284",
+        "course-455",
+        "course-561"
+    ],
+    "big": [
+        "course-284"
+    ],
+    "administrativo": [
+        "course-286",
+        "course-287",
+        "course-416"
+    ],
+    "principios": [
+        "course-286",
+        "course-382",
+        "course-618"
+    ],
+    "contencioso": [
+        "course-287"
+    ],
+    "2080": [
+        "course-287",
+        "course-416"
+    ],
+    "estética": [
+        "course-288"
+    ],
+    "dental": [
+        "course-288"
+    ],
+    "distribución": [
+        "course-289",
+        "course-648"
+    ],
+    "audiovisual": [
+        "course-289",
+        "course-332",
+        "course-648"
+    ],
+    "diario": [
+        "course-290"
+    ],
+    "naturalista": [
+        "course-290"
+    ],
+    "educadores": [
+        "course-290",
+        "course-571"
+    ],
+    "conectar": [
+        "course-290"
+    ],
+    "naturaleza": [
+        "course-290"
+    ],
+    "iniciación": [
+        "course-291"
+    ],
+    "grabado": [
+        "course-291"
+    ],
+    "monotipias": [
+        "course-291"
+    ],
+    "relieve": [
+        "course-291"
+    ],
+    "estéticos": [
+        "course-292"
+    ],
+    "rehabilitación": [
+        "course-292"
+    ],
+    "gasometría": [
+        "course-293"
+    ],
+    "arterial": [
+        "course-293",
+        "course-570"
+    ],
+    "venosa": [
+        "course-293"
+    ],
+    "paciente": [
+        "course-293",
+        "course-362",
+        "course-363",
+        "course-367",
+        "course-412"
+    ],
+    "agudamente": [
+        "course-293"
+    ],
+    "enfermo": [
+        "course-293"
+    ],
+    "ejecutivas": [
+        "course-294"
+    ],
+    "alto": [
+        "course-294"
+    ],
+    "ensamblaje": [
+        "course-295"
+    ],
+    "objeto": [
+        "course-295"
+    ],
+    "encontrado": [
+        "course-295"
+    ],
+    "mirada": [
+        "course-295",
+        "course-361"
+    ],
+    "cotidiano": [
+        "course-295"
+    ],
+    "afecto": [
+        "course-295"
+    ],
+    "creatividad": [
+        "course-296",
+        "course-307",
+        "course-504"
+    ],
+    "asistida": [
+        "course-296"
+    ],
+    "abiertas": [
+        "course-296",
+        "course-662"
+    ],
+    "sin": [
+        "course-296"
+    ],
+    "moda": [
+        "course-297",
+        "course-384"
+    ],
+    "medicina": [
+        "course-298",
+        "course-334",
+        "course-553",
+        "course-597",
+        "course-615"
+    ],
+    "precisión": [
+        "course-298"
+    ],
+    "sentido": [
+        "course-299",
+        "course-612"
+    ],
+    "organizacional": [
+        "course-299"
+    ],
+    "orar": [
+        "course-300"
+    ],
+    "salmos": [
+        "course-300"
+    ],
+    "discapacidades": [
+        "course-301"
+    ],
+    "psicosociales": [
+        "course-301"
+    ],
+    "causas": [
+        "course-301"
+    ],
+    "signos": [
+        "course-301"
+    ],
+    "alerta": [
+        "course-301"
+    ],
+    "pedagógicas": [
+        "course-301",
+        "course-466",
+        "course-564"
+    ],
+    "intervención": [
+        "course-301",
+        "course-352",
+        "course-454",
+        "course-554",
+        "course-667"
+    ],
+    "aulas": [
+        "course-301",
+        "course-564"
+    ],
+    "jesús": [
+        "course-302"
+    ],
+    "nazaret": [
+        "course-302"
+    ],
+    "aproximación": [
+        "course-302",
+        "course-364"
+    ],
+    "arqueológica": [
+        "course-302"
+    ],
+    "fundamentals": [
+        "course-304",
+        "course-627"
+    ],
+    "comercial": [
+        "course-305"
+    ],
+    "instrumentos": [
+        "course-306",
+        "course-395"
+    ],
+    "gasto": [
+        "course-306",
+        "course-395"
+    ],
+    "público": [
+        "course-306",
+        "course-395",
+        "course-396"
+    ],
+    "ilustración": [
+        "course-307",
+        "course-422"
+    ],
+    "artistas": [
+        "course-307"
+    ],
+    "robótica": [
+        "course-308",
+        "course-601"
+    ],
+    "rpa": [
+        "course-308"
+    ],
+    "consolidación": [
+        "course-309"
+    ],
+    "estados": [
+        "course-309",
+        "course-462"
+    ],
+    "coordinadores": [
+        "course-310"
+    ],
+    "point": [
+        "course-310"
+    ],
+    "care": [
+        "course-310",
+        "course-600",
+        "course-617"
+    ],
+    "testing": [
+        "course-310"
+    ],
+    "poct": [
+        "course-310"
+    ],
+    "tecnología": [
+        "course-311",
+        "course-432",
+        "course-566"
+    ],
+    "psiconutrición": [
+        "course-311",
+        "course-314"
+    ],
+    "comportamiento": [
+        "course-313"
+    ],
+    "alimentario": [
+        "course-313"
+    ],
+    "bienes": [
+        "course-315"
+    ],
+    "temporales": [
+        "course-315"
+    ],
+    "iglesia": [
+        "course-315",
+        "course-372"
+    ],
+    "canales": [
+        "course-319"
+    ],
+    "todos": [
+        "course-319"
+    ],
+    "analizarlos": [
+        "course-320"
+    ],
+    "críticamente": [
+        "course-320"
+    ],
+    "conociendo": [
+        "course-321"
+    ],
+    "alianza": [
+        "course-321",
+        "course-322",
+        "course-323",
+        "course-324",
+        "course-642"
+    ],
+    "santillana": [
+        "course-321",
+        "course-322",
+        "course-323",
+        "course-324",
+        "course-642"
+    ],
+    "evaluación": [
+        "course-322",
+        "course-421",
+        "course-469",
+        "course-610",
+        "course-681"
+    ],
+    "formativa": [
+        "course-322"
+    ],
+    "recurso": [
+        "course-322"
+    ],
+    "pedagógico": [
+        "course-322"
+    ],
+    "aprendizaje": [
+        "course-323",
+        "course-325",
+        "course-367"
+    ],
+    "motivación": [
+        "course-323"
+    ],
+    "aula": [
+        "course-323",
+        "course-371"
+    ],
+    "edumarketing": [
+        "course-324"
+    ],
+    "neuroeducación": [
+        "course-325"
+    ],
+    "universal": [
+        "course-325",
+        "course-372"
+    ],
+    "mediación": [
+        "course-326",
+        "course-390",
+        "course-614"
+    ],
+    "lectores": [
+        "course-326"
+    ],
+    "críticos": [
+        "course-326"
+    ],
+    "docentes": [
+        "course-327"
+    ],
+    "creativa": [
+        "course-329",
+        "course-621"
+    ],
+    "literatura": [
+        "course-329"
+    ],
+    "cuentos": [
+        "course-329"
+    ],
+    "relatos": [
+        "course-329"
+    ],
+    "pmp": [
+        "course-331"
+    ],
+    "institute": [
+        "course-331"
+    ],
+    "live": [
+        "course-332",
+        "course-611"
+    ],
+    "cinema": [
+        "course-332"
+    ],
+    "video": [
+        "course-332"
+    ],
+    "mapping": [
+        "course-332"
+    ],
+    "vivo": [
+        "course-332",
+        "course-574"
+    ],
+    "orquestación": [
+        "course-333"
+    ],
+    "alimentación": [
+        "course-334",
+        "course-550"
+    ],
+    "funcional": [
+        "course-334"
+    ],
+    "confort": [
+        "course-336"
+    ],
+    "legal": [
+        "course-337",
+        "course-494"
+    ],
+    "eeuu": [
+        "course-337"
+    ],
+    "víctimas": [
+        "course-338",
+        "course-555"
+    ],
+    "violencia": [
+        "course-338"
+    ],
+    "sexual": [
+        "course-338"
+    ],
+    "híbrida": [
+        "course-340"
+    ],
+    "interdisciplinaria": [
+        "course-340"
+    ],
+    "cine": [
+        "course-341",
+        "course-549",
+        "course-680"
+    ],
+    "japonés": [
+        "course-341"
+    ],
+    "fondos": [
+        "course-345"
+    ],
+    "educativos": [
+        "course-345"
+    ],
+    "inversionistas": [
+        "course-346"
+    ],
+    "decisión": [
+        "course-346"
+    ],
+    "marcas": [
+        "course-347"
+    ],
+    "inspiran": [
+        "course-347"
+    ],
+    "primer": [
+        "course-347"
+    ],
+    "mercadeo": [
+        "course-347",
+        "course-569",
+        "course-593"
+    ],
+    "cartografía": [
+        "course-348"
+    ],
+    "parala": [
+        "course-348"
+    ],
+    "citogenética": [
+        "course-349"
+    ],
+    "clásica": [
+        "course-349"
+    ],
+    "uso": [
+        "course-349"
+    ],
+    "diagnóstico": [
+        "course-349",
+        "course-356",
+        "course-534"
+    ],
+    "clínico": [
+        "course-349",
+        "course-470",
+        "course-664"
+    ],
+    "propio": [
+        "course-350",
+        "course-351"
+    ],
+    "negocio": [
+        "course-350",
+        "course-351",
+        "course-492"
+    ],
+    "estudiante": [
+        "course-350",
+        "course-351"
+    ],
+    "empresario": [
+        "course-350",
+        "course-351"
+    ],
+    "enfermería": [
+        "course-352",
+        "course-359"
+    ],
+    "prevención": [
+        "course-352"
+    ],
+    "infecciones": [
+        "course-352"
+    ],
+    "asociadas": [
+        "course-352"
+    ],
+    "human": [
+        "course-353"
+    ],
+    "factors": [
+        "course-353"
+    ],
+    "factores": [
+        "course-353"
+    ],
+    "humanos": [
+        "course-353",
+        "course-557",
+        "course-558",
+        "course-624"
+    ],
+    "systems": [
+        "course-354"
+    ],
+    "aérea": [
+        "course-354"
+    ],
+    "políticas": [
+        "course-355",
+        "course-365",
+        "course-542",
+        "course-572",
+        "course-640",
+        "course-657"
+    ],
+    "programas": [
+        "course-355",
+        "course-409",
+        "course-452",
+        "course-572"
+    ],
+    "biología": [
+        "course-356"
+    ],
+    "detección": [
+        "course-356"
+    ],
+    "identificación": [
+        "course-356",
+        "course-528"
+    ],
+    "microorganismos": [
+        "course-356"
+    ],
+    "infecciosos": [
+        "course-356"
+    ],
+    "morfología": [
+        "course-357"
+    ],
+    "células": [
+        "course-357"
+    ],
+    "hemáticas": [
+        "course-357"
+    ],
+    "asociación": [
+        "course-357"
+    ],
+    "diferentes": [
+        "course-357"
+    ],
+    "patologías": [
+        "course-357"
+    ],
+    "demografía": [
+        "course-358"
+    ],
+    "viaje": [
+        "course-360"
+    ],
+    "iniciático": [
+        "course-360"
+    ],
+    "integradora": [
+        "course-361"
+    ],
+    "enfermedades": [
+        "course-362",
+        "course-676"
+    ],
+    "huérfanas": [
+        "course-362"
+    ],
+    "raras": [
+        "course-362"
+    ],
+    "oncológico": [
+        "course-363"
+    ],
+    "temas": [
+        "course-364"
+    ],
+    "envejecimiento": [
+        "course-364"
+    ],
+    "vejez": [
+        "course-364"
+    ],
+    "campesina": [
+        "course-365"
+    ],
+    "familiar": [
+        "course-365"
+    ],
+    "bases": [
+        "course-365",
+        "course-553"
+    ],
+    "conceptuales": [
+        "course-365"
+    ],
+    "pie": [
+        "course-366"
+    ],
+    "recuperación": [
+        "course-366"
+    ],
+    "genealogía": [
+        "course-366"
+    ],
+    "nuestras": [
+        "course-366"
+    ],
+    "ancestras": [
+        "course-366"
+    ],
+    "intoxicado": [
+        "course-367"
+    ],
+    "mediante": [
+        "course-367"
+    ],
+    "fidelidad": [
+        "course-367"
+    ],
+    "innatos": [
+        "course-368"
+    ],
+    "metabolismo": [
+        "course-368"
+    ],
+    "molécula": [
+        "course-368"
+    ],
+    "pequeña": [
+        "course-368"
+    ],
+    "francisco": [
+        "course-369",
+        "course-372",
+        "course-373",
+        "course-666"
+    ],
+    "líder": [
+        "course-369"
+    ],
+    "mundial": [
+        "course-369"
+    ],
+    "dificultades": [
+        "course-371"
+    ],
+    "infantiles": [
+        "course-371"
+    ],
+    "dentro": [
+        "course-371"
+    ],
+    "fuera": [
+        "course-371",
+        "course-550"
+    ],
+    "perspectiva": [
+        "course-371"
+    ],
+    "neuropsicológica": [
+        "course-371"
+    ],
+    "papa": [
+        "course-372",
+        "course-373"
+    ],
+    "aporte": [
+        "course-372"
+    ],
+    "latinoamericano": [
+        "course-372",
+        "course-549"
+    ],
+    "inspiración": [
+        "course-373"
+    ],
+    "asís": [
+        "course-373"
+    ],
+    "ecología": [
+        "course-373",
+        "course-679"
+    ],
+    "dignidad": [
+        "course-373"
+    ],
+    "fraternidad": [
+        "course-373"
+    ],
+    "cash": [
+        "course-374"
+    ],
+    "transferencias": [
+        "course-374"
+    ],
+    "monetarias": [
+        "course-374"
+    ],
+    "paramétrica": [
+        "course-375"
+    ],
+    "invención": [
+        "course-376"
+    ],
+    "creativas": [
+        "course-377"
+    ],
+    "fotográfica": [
+        "course-377"
+    ],
+    "medidas": [
+        "course-378"
+    ],
+    "justicia": [
+        "course-378",
+        "course-390",
+        "course-557",
+        "course-639"
+    ],
+    "transicional": [
+        "course-378"
+    ],
+    "memorias": [
+        "course-379"
+    ],
+    "texto": [
+        "course-380"
+    ],
+    "aprendiendo": [
+        "course-381"
+    ],
+    "videojuegos": [
+        "course-381",
+        "course-410",
+        "course-609",
+        "course-660"
+    ],
+    "retos": [
+        "course-382",
+        "course-434"
+    ],
+    "oportunidades": [
+        "course-382",
+        "course-434"
+    ],
+    "caribe": [
+        "course-383",
+        "course-387",
+        "course-404",
+        "course-406",
+        "course-413",
+        "course-415",
+        "course-417",
+        "course-418",
+        "course-606",
+        "course-607",
+        "course-629"
+    ],
+    "visión": [
+        "course-384"
+    ],
+    "pedagogía": [
+        "course-385"
+    ],
+    "ibague": [
+        "course-386"
+    ],
+    "litigio": [
+        "course-388"
+    ],
+    "restaurativa": [
+        "course-390",
+        "course-639"
+    ],
+    "diálogo": [
+        "course-392"
+    ],
+    "transformando": [
+        "course-393"
+    ],
+    "adversidad": [
+        "course-393"
+    ],
+    "marco": [
+        "course-394",
+        "course-494"
+    ],
+    "regulatorio": [
+        "course-394"
+    ],
+    "infraestructura": [
+        "course-394",
+        "course-437"
+    ],
+    "ferroviaria": [
+        "course-394"
+    ],
+    "243": [
+        "course-396"
+    ],
+    "podcast": [
+        "course-397"
+    ],
+    "asistido": [
+        "course-397"
+    ],
+    "preventivos": [
+        "course-398"
+    ],
+    "legales": [
+        "course-399"
+    ],
+    "diversos": [
+        "course-399"
+    ],
+    "tipos": [
+        "course-399"
+    ],
+    "colombianas": [
+        "course-399"
+    ],
+    "sb1": [
+        "course-400"
+    ],
+    "the": [
+        "course-400"
+    ],
+    "environment": [
+        "course-400"
+    ],
+    "medio": [
+        "course-400",
+        "course-444"
+    ],
+    "ambiente": [
+        "course-400",
+        "course-444"
+    ],
+    "technical": [
+        "course-401"
+    ],
+    "regulations": [
+        "course-401"
+    ],
+    "regulaciones": [
+        "course-401"
+    ],
+    "sb3": [
+        "course-402"
+    ],
+    "governance": [
+        "course-402"
+    ],
+    "planificación": [
+        "course-402",
+        "course-610",
+        "course-683"
+    ],
+    "bioseguridad": [
+        "course-403"
+    ],
+    "bsl": [
+        "course-403"
+    ],
+    "direccion": [
+        "course-404"
+    ],
+    "solidarias": [
+        "course-404"
+    ],
+    "operational": [
+        "course-405"
+    ],
+    "risk": [
+        "course-405"
+    ],
+    "operacional": [
+        "course-405"
+    ],
+    "compras": [
+        "course-406"
+    ],
+    "abastecimiento": [
+        "course-406"
+    ],
+    "nueva": [
+        "course-407"
+    ],
+    "ventas": [
+        "course-407",
+        "course-430",
+        "course-476",
+        "course-546",
+        "course-569",
+        "course-593"
+    ],
+    "publicos": [
+        "course-408"
+    ],
+    "transparencia": [
+        "course-409"
+    ],
+    "ptep": [
+        "course-409",
+        "course-452"
+    ],
+    "1122": [
+        "course-409"
+    ],
+    "anexo": [
+        "course-409"
+    ],
+    "seguimiento": [
+        "course-412",
+        "course-572"
+    ],
+    "quimioterapia": [
+        "course-412"
+    ],
+    "agente": [
+        "course-413"
+    ],
+    "integración": [
+        "course-414"
+    ],
+    "inteligencias": [
+        "course-414"
+    ],
+    "artificiales": [
+        "course-414"
+    ],
+    "usos": [
+        "course-414"
+    ],
+    "prácticos": [
+        "course-414"
+    ],
+    "reflexiones": [
+        "course-414"
+    ],
+    "críticas": [
+        "course-414"
+    ],
+    "cobranza": [
+        "course-415"
+    ],
+    "sancionatorio": [
+        "course-416"
+    ],
+    "entidades": [
+        "course-417"
+    ],
+    "urbanistico": [
+        "course-418"
+    ],
+    "carreteras": [
+        "course-419"
+    ],
+    "diversidad": [
+        "course-420"
+    ],
+    "inclusión": [
+        "course-420"
+    ],
+    "equidad": [
+        "course-420"
+    ],
+    "sanitarias": [
+        "course-421"
+    ],
+    "autor": [
+        "course-422"
+    ],
+    "tatuajes": [
+        "course-422"
+    ],
+    "papel": [
+        "course-422"
+    ],
+    "cuerpo": [
+        "course-422"
+    ],
+    "participación": [
+        "course-423",
+        "course-587"
+    ],
+    "ciudadana": [
+        "course-423",
+        "course-449"
+    ],
+    "deliberativa": [
+        "course-423"
+    ],
+    "local": [
+        "course-423"
+    ],
+    "privada": [
+        "course-424"
+    ],
+    "biodiversidad": [
+        "course-425",
+        "course-426",
+        "course-559"
+    ],
+    "rumbo": [
+        "course-425"
+    ],
+    "cop16": [
+        "course-425"
+    ],
+    "periodismo": [
+        "course-426",
+        "course-441"
+    ],
+    "contar": [
+        "course-426"
+    ],
+    "transporte": [
+        "course-427"
+    ],
+    "aseguramiento": [
+        "course-428"
+    ],
+    "ser": [
+        "course-429",
+        "course-484"
+    ],
+    "influencer": [
+        "course-429"
+    ],
+    "morir": [
+        "course-429"
+    ],
+    "intento": [
+        "course-429"
+    ],
+    "cliente": [
+        "course-430",
+        "course-522",
+        "course-591"
+    ],
+    "aws": [
+        "course-431"
+    ],
+    "certified": [
+        "course-431"
+    ],
+    "solution": [
+        "course-431"
+    ],
+    "architect": [
+        "course-431"
+    ],
+    "associate": [
+        "course-431"
+    ],
+    "adquiere": [
+        "course-431"
+    ],
+    "conocimientos": [
+        "course-431"
+    ],
+    "prepárate": [
+        "course-431"
+    ],
+    "básica": [
+        "course-432",
+        "course-537",
+        "course-688"
+    ],
+    "concreto": [
+        "course-432",
+        "course-433"
+    ],
+    "mortero": [
+        "course-433"
+    ],
+    "hidráulico": [
+        "course-433"
+    ],
+    "101": [
+        "course-434"
+    ],
+    "matemáticas": [
+        "course-435"
+    ],
+    "financieras": [
+        "course-435"
+    ],
+    "estoicismo": [
+        "course-436"
+    ],
+    "romano": [
+        "course-436"
+    ],
+    "cloud": [
+        "course-437"
+    ],
+    "computing": [
+        "course-437"
+    ],
+    "hay": [
+        "course-438"
+    ],
+    "después": [
+        "course-438"
+    ],
+    "muerte": [
+        "course-438"
+    ],
+    "aproximaciones": [
+        "course-438"
+    ],
+    "antropológicas": [
+        "course-438"
+    ],
+    "teológicas": [
+        "course-438"
+    ],
+    "humanitaria": [
+        "course-439",
+        "course-440",
+        "course-441",
+        "course-442",
+        "course-443",
+        "course-444",
+        "course-445",
+        "course-446",
+        "course-447"
+    ],
+    "poblaciones": [
+        "course-439"
+    ],
+    "diferenciada": [
+        "course-439"
+    ],
+    "definición": [
+        "course-440"
+    ],
+    "horizonte": [
+        "course-440"
+    ],
+    "pautas": [
+        "course-440"
+    ],
+    "ciclos": [
+        "course-442"
+    ],
+    "emergencias": [
+        "course-443"
+    ],
+    "ddhh": [
+        "course-445"
+    ],
+    "gobiernos": [
+        "course-447",
+        "course-640"
+    ],
+    "autónomos": [
+        "course-447"
+    ],
+    "sig": [
+        "course-448"
+    ],
+    "sistemas": [
+        "course-448",
+        "course-503",
+        "course-553",
+        "course-574"
+    ],
+    "geográfica": [
+        "course-448"
+    ],
+    "pdt": [
+        "course-449"
+    ],
+    "piscc": [
+        "course-449"
+    ],
+    "claves": [
+        "course-449",
+        "course-550",
+        "course-578",
+        "course-620"
+    ],
+    "construir": [
+        "course-449"
+    ],
+    "articular": [
+        "course-449"
+    ],
+    "convivencia": [
+        "course-449",
+        "course-635"
+    ],
+    "building": [
+        "course-450"
+    ],
+    "information": [
+        "course-450"
+    ],
+    "modeling": [
+        "course-450"
+    ],
+    "trasparencia": [
+        "course-452"
+    ],
+    "ptee": [
+        "course-452",
+        "course-637"
+    ],
+    "académica": [
+        "course-454",
+        "course-667"
+    ],
+    "insolvencia": [
+        "course-454",
+        "course-554",
+        "course-667"
+    ],
+    "aval": [
+        "course-454",
+        "course-667"
+    ],
+    "superintendencia": [
+        "course-454",
+        "course-554",
+        "course-667"
+    ],
+    "sociedades": [
+        "course-454",
+        "course-554",
+        "course-667"
+    ],
+    "lenguaje": [
+        "course-455"
+    ],
+    "natural": [
+        "course-455"
+    ],
+    "aficionados": [
+        "course-458"
+    ],
+    "grabación": [
+        "course-458"
+    ],
+    "ibagué": [
+        "course-459",
+        "course-605"
+    ],
+    "mecanicista": [
+        "course-460"
+    ],
+    "racional": [
+        "course-460"
+    ],
+    "pavimentos": [
+        "course-460"
+    ],
+    "inversa": [
+        "course-461"
+    ],
+    "ciudadano": [
+        "course-463"
+    ],
+    "comunidad": [
+        "course-463"
+    ],
+    "límites": [
+        "course-463"
+    ],
+    "desbloqueo": [
+        "course-464"
+    ],
+    "creativos": [
+        "course-464"
+    ],
+    "gimnasio": [
+        "course-466",
+        "course-468",
+        "course-469"
+    ],
+    "actividades": [
+        "course-468"
+    ],
+    "tutoría": [
+        "course-469"
+    ],
+    "mediada": [
+        "course-469"
+    ],
+    "tic": [
+        "course-469",
+        "course-642"
+    ],
+    "muestras": [
+        "course-470"
+    ],
+    "biológicas": [
+        "course-470"
+    ],
+    "abc": [
+        "course-471"
+    ],
+    "funcionamiento": [
+        "course-473"
+    ],
+    "red": [
+        "course-473"
+    ],
+    "cadena": [
+        "course-475"
+    ],
+    "casa": [
+        "course-476",
+        "course-550"
+    ],
+    "empoderando": [
+        "course-477"
+    ],
+    "eficaces": [
+        "course-478"
+    ],
+    "estratégicos": [
+        "course-479"
+    ],
+    "insights": [
+        "course-480"
+    ],
+    "comunicativas": [
+        "course-481"
+    ],
+    "mentor": [
+        "course-484"
+    ],
+    "responsabilidad": [
+        "course-486"
+    ],
+    "inspirando": [
+        "course-487"
+    ],
+    "ejemplo": [
+        "course-487"
+    ],
+    "gestionando": [
+        "course-488"
+    ],
+    "mentoring": [
+        "course-489",
+        "course-563"
+    ],
+    "ejecutivo": [
+        "course-489"
+    ],
+    "emocional": [
+        "course-490"
+    ],
+    "cambio": [
+        "course-493",
+        "course-518",
+        "course-539",
+        "course-541"
+    ],
+    "pensamiento": [
+        "course-495",
+        "course-498",
+        "course-622",
+        "course-652"
+    ],
+    "éticos": [
+        "course-496"
+    ],
+    "planeación": [
+        "course-501"
+    ],
+    "vigilancia": [
+        "course-502",
+        "course-530"
+    ],
+    "multiequipos": [
+        "course-503"
+    ],
+    "visualizando": [
+        "course-505"
+    ],
+    "docente": [
+        "course-506",
+        "course-507",
+        "course-508",
+        "course-509",
+        "course-511"
+    ],
+    "competencia": [
+        "course-506",
+        "course-507",
+        "course-508",
+        "course-509",
+        "course-511"
+    ],
+    "investigativa": [
+        "course-506"
+    ],
+    "tecno": [
+        "course-507"
+    ],
+    "comunicativa": [
+        "course-508"
+    ],
+    "empleabilidad": [
+        "course-512",
+        "course-513",
+        "course-514",
+        "course-515",
+        "course-516",
+        "course-517",
+        "course-523",
+        "course-524"
+    ],
+    "contrato": [
+        "course-512"
+    ],
+    "psicológico": [
+        "course-512",
+        "course-523"
+    ],
+    "capital": [
+        "course-514",
+        "course-515",
+        "course-516",
+        "course-523"
+    ],
+    "medias": [
+        "course-515"
+    ],
+    "avanzadas": [
+        "course-516"
+    ],
+    "enfocada": [
+        "course-517"
+    ],
+    "necesidad": [
+        "course-518"
+    ],
+    "eficacia": [
+        "course-519"
+    ],
+    "transición": [
+        "course-519"
+    ],
+    "reconocimiento": [
+        "course-520"
+    ],
+    "talentos": [
+        "course-520"
+    ],
+    "logro": [
+        "course-521"
+    ],
+    "equipo": [
+        "course-526"
+    ],
+    "continua": [
+        "course-527"
+    ],
+    "microbiología": [
+        "course-528"
+    ],
+    "industria": [
+        "course-528"
+    ],
+    "alimentaria": [
+        "course-528"
+    ],
+    "otros": [
+        "course-529"
+    ],
+    "sectores": [
+        "course-529"
+    ],
+    "vigilados": [
+        "course-529"
+    ],
+    "auditiva": [
+        "course-530"
+    ],
+    "allá": [
+        "course-530"
+    ],
+    "audiometría": [
+        "course-530"
+    ],
+    "exposición": [
+        "course-531"
+    ],
+    "ocupacional": [
+        "course-531",
+        "course-552"
+    ],
+    "construyendo": [
+        "course-533"
+    ],
+    "socio": [
+        "course-533"
+    ],
+    "invasivo": [
+        "course-534"
+    ],
+    "desórdenes": [
+        "course-534"
+    ],
+    "temporomandibulares": [
+        "course-534"
+    ],
+    "dolor": [
+        "course-534"
+    ],
+    "orofacial": [
+        "course-534"
+    ],
+    "aplicadas": [
+        "course-535",
+        "course-560",
+        "course-641"
+    ],
+    "elaboración": [
+        "course-536"
+    ],
+    "mapas": [
+        "course-536"
+    ],
+    "estático": [
+        "course-536"
+    ],
+    "dinámico": [
+        "course-536"
+    ],
+    "cuarto": [
+        "course-537"
+    ],
+    "oscuro": [
+        "course-537"
+    ],
+    "acueductos": [
+        "course-538"
+    ],
+    "veredales": [
+        "course-538"
+    ],
+    "vulnerabilidad": [
+        "course-539",
+        "course-541"
+    ],
+    "desastres": [
+        "course-539",
+        "course-541"
+    ],
+    "climático": [
+        "course-539",
+        "course-541"
+    ],
+    "ciudades": [
+        "course-539",
+        "course-541"
+    ],
+    "latinoamericanas": [
+        "course-539",
+        "course-541"
+    ],
+    "liderando": [
+        "course-540"
+    ],
+    "hídrica": [
+        "course-540",
+        "course-559"
+    ],
+    "nuevos": [
+        "course-540"
+    ],
+    "políticos": [
+        "course-540"
+    ],
+    "américa": [
+        "course-540",
+        "course-543"
+    ],
+    "latina": [
+        "course-540",
+        "course-543"
+    ],
+    "cultura": [
+        "course-542",
+        "course-616"
+    ],
+    "comer": [
+        "course-550"
+    ],
+    "bien": [
+        "course-550",
+        "course-635"
+    ],
+    "presupuestos": [
+        "course-551"
+    ],
+    "toxicología": [
+        "course-552"
+    ],
+    "integrativa": [
+        "course-553"
+    ],
+    "homeopáticas": [
+        "course-553"
+    ],
+    "biorregulación": [
+        "course-553"
+    ],
+    "avalado": [
+        "course-554"
+    ],
+    "agresiones": [
+        "course-555"
+    ],
+    "agentes": [
+        "course-555"
+    ],
+    "químicos": [
+        "course-555"
+    ],
+    "segmentación": [
+        "course-556"
+    ],
+    "clustering": [
+        "course-556"
+    ],
+    "foco": [
+        "course-556"
+    ],
+    "mercados": [
+        "course-556"
+    ],
+    "derechos": [
+        "course-557",
+        "course-558",
+        "course-624"
+    ],
+    "ausjal": [
+        "course-557",
+        "course-558"
+    ],
+    "iidh": [
+        "course-557",
+        "course-558"
+    ],
+    "neurociencias": [
+        "course-560"
+    ],
+    "multimodal": [
+        "course-561"
+    ],
+    "textuales": [
+        "course-561"
+    ],
+    "visuales": [
+        "course-561"
+    ],
+    "sonoros": [
+        "course-561"
+    ],
+    "gestuales": [
+        "course-561"
+    ],
+    "paisaje": [
+        "course-562"
+    ],
+    "productos": [
+        "course-563"
+    ],
+    "somática": [
+        "course-564"
+    ],
+    "comprendemos": [
+        "course-564"
+    ],
+    "construimos": [
+        "course-564"
+    ],
+    "pedagogías": [
+        "course-564",
+        "course-639"
+    ],
+    "somáticas": [
+        "course-564"
+    ],
+    "escénicas": [
+        "course-565"
+    ],
+    "fintech": [
+        "course-566"
+    ],
+    "centrales": [
+        "course-567"
+    ],
+    "esterilización": [
+        "course-567"
+    ],
+    "hipertensión": [
+        "course-570"
+    ],
+    "sistémica": [
+        "course-570"
+    ],
+    "concurso": [
+        "course-571"
+    ],
+    "notarios": [
+        "course-571"
+    ],
+    "psicólogos": [
+        "course-571"
+    ],
+    "objetivos": [
+        "course-572"
+    ],
+    "ods": [
+        "course-572"
+    ],
+    "estadísticas": [
+        "course-573"
+    ],
+    "económicas": [
+        "course-573"
+    ],
+    "sonido": [
+        "course-574"
+    ],
+    "operación": [
+        "course-574"
+    ],
+    "amplificación": [
+        "course-574"
+    ],
+    "conciertos": [
+        "course-574"
+    ],
+    "administrativa": [
+        "course-575"
+    ],
+    "ignaciana": [
+        "course-576"
+    ],
+    "tesorería": [
+        "course-577"
+    ],
+    "deuda": [
+        "course-577"
+    ],
+    "psicoanálisis": [
+        "course-578"
+    ],
+    "evolución": [
+        "course-578"
+    ],
+    "manager": [
+        "course-581"
+    ],
+    "nariño": [
+        "course-581"
+    ],
+    "escuela": [
+        "course-583",
+        "course-584",
+        "course-596"
+    ],
+    "verano": [
+        "course-583",
+        "course-584",
+        "course-596"
+    ],
+    "junior": [
+        "course-583"
+    ],
+    "kids": [
+        "course-584"
+    ],
+    "categorías": [
+        "course-588",
+        "course-654"
+    ],
+    "analíticas": [
+        "course-588"
+    ],
+    "estudiarlas": [
+        "course-588"
+    ],
+    "contemporáneas": [
+        "course-590"
+    ],
+    "hacia": [
+        "course-590"
+    ],
+    "campo": [
+        "course-590"
+    ],
+    "interdisciplinario": [
+        "course-590"
+    ],
+    "estudio": [
+        "course-590"
+    ],
+    "servicio": [
+        "course-591"
+    ],
+    "geométrico": [
+        "course-594"
+    ],
+    "ferrocarriles": [
+        "course-594"
+    ],
+    "senior": [
+        "course-596"
+    ],
+    "sueño": [
+        "course-597"
+    ],
+    "emerging": [
+        "course-600",
+        "course-617"
+    ],
+    "health": [
+        "course-600",
+        "course-617"
+    ],
+    "tech": [
+        "course-600"
+    ],
+    "for": [
+        "course-600"
+    ],
+    "next": [
+        "course-600"
+    ],
+    "generation": [
+        "course-600"
+    ],
+    "remote": [
+        "course-600"
+    ],
+    "assisted": [
+        "course-600"
+    ],
+    "living": [
+        "course-600",
+        "course-617"
+    ],
+    "nano": [
+        "course-601"
+    ],
+    "bioingeniería": [
+        "course-601"
+    ],
+    "despierta": [
+        "course-602"
+    ],
+    "potencial": [
+        "course-602",
+        "course-682"
+    ],
+    "autoconocimiento": [
+        "course-602"
+    ],
+    "evangelización": [
+        "course-608"
+    ],
+    "pastoral": [
+        "course-608"
+    ],
+    "audio": [
+        "course-609",
+        "course-634"
+    ],
+    "interactivos": [
+        "course-609"
+    ],
+    "viales": [
+        "course-610"
+    ],
+    "act": [
+        "course-611"
+    ],
+    "setups": [
+        "course-611"
+    ],
+    "avanzados": [
+        "course-611"
+    ],
+    "midi": [
+        "course-611"
+    ],
+    "depende": [
+        "course-612"
+    ],
+    "vivir": [
+        "course-612"
+    ],
+    "pereira": [
+        "course-612"
+    ],
+    "enseñanza": [
+        "course-613"
+    ],
+    "hogar": [
+        "course-614"
+    ],
+    "transfusional": [
+        "course-615"
+    ],
+    "inmunohematología": [
+        "course-615"
+    ],
+    "democracia": [
+        "course-616"
+    ],
+    "valores": [
+        "course-616"
+    ],
+    "technologies": [
+        "course-617"
+    ],
+    "support": [
+        "course-617"
+    ],
+    "independent": [
+        "course-617"
+    ],
+    "empowering": [
+        "course-617"
+    ],
+    "elderly": [
+        "course-617"
+    ],
+    "through": [
+        "course-617"
+    ],
+    "ecosystems": [
+        "course-617"
+    ],
+    "estándares": [
+        "course-618"
+    ],
+    "simulaciones": [
+        "course-618"
+    ],
+    "bioclimáticas": [
+        "course-618"
+    ],
+    "arteterapia": [
+        "course-619"
+    ],
+    "infanto": [
+        "course-619"
+    ],
+    "algorética": [
+        "course-620"
+    ],
+    "teología": [
+        "course-620"
+    ],
+    "cuento": [
+        "course-621"
+    ],
+    "crónica": [
+        "course-621"
+    ],
+    "literaria": [
+        "course-621"
+    ],
+    "critico": [
+        "course-622"
+    ],
+    "epidemiología": [
+        "course-623"
+    ],
+    "empresa": [
+        "course-624"
+    ],
+    "debida": [
+        "course-624"
+    ],
+    "diligencia": [
+        "course-624"
+    ],
+    "mecanismo": [
+        "course-624"
+    ],
+    "abierto": [
+        "course-625"
+    ],
+    "locución": [
+        "course-628"
+    ],
+    "ejecutivos": [
+        "course-629"
+    ],
+    "estar": [
+        "course-635"
+    ],
+    "interdependencia": [
+        "course-635"
+    ],
+    "contenidos": [
+        "course-636"
+    ],
+    "media": [
+        "course-636"
+    ],
+    "revisores": [
+        "course-637"
+    ],
+    "fiscales": [
+        "course-637",
+        "course-650"
+    ],
+    "videoclips": [
+        "course-638"
+    ],
+    "verdad": [
+        "course-639"
+    ],
+    "gubernamental": [
+        "course-640"
+    ],
+    "locales": [
+        "course-640"
+    ],
+    "proptech": [
+        "course-641"
+    ],
+    "enseñar": [
+        "course-642"
+    ],
+    "aprender": [
+        "course-642"
+    ],
+    "estrategica": [
+        "course-643"
+    ],
+    "program": [
+        "course-644"
+    ],
+    "amp": [
+        "course-644"
+    ],
+    "bootcamp": [
+        "course-646"
+    ],
+    "cierre": [
+        "course-650"
+    ],
+    "diferencias": [
+        "course-650"
+    ],
+    "presupuesto": [
+        "course-651"
+    ],
+    "nación": [
+        "course-651"
+    ],
+    "segundo": [
+        "course-653"
+    ],
+    "congreso": [
+        "course-653"
+    ],
+    "económico": [
+        "course-653"
+    ],
+    "pensar": [
+        "course-654"
+    ],
+    "feminismos": [
+        "course-654"
+    ],
+    "debates": [
+        "course-654"
+    ],
+    "campos": [
+        "course-654"
+    ],
+    "disputa": [
+        "course-654"
+    ],
+    "praxis": [
+        "course-654"
+    ],
+    "feminista": [
+        "course-654"
+    ],
+    "consultoría": [
+        "course-655"
+    ],
+    "informalidad": [
+        "course-657"
+    ],
+    "enfoques": [
+        "course-657"
+    ],
+    "medición": [
+        "course-657"
+    ],
+    "reputacional": [
+        "course-658"
+    ],
+    "impuesto": [
+        "course-659"
+    ],
+    "fácil": [
+        "course-659"
+    ],
+    "expertos": [
+        "course-659"
+    ],
+    "creando": [
+        "course-660"
+    ],
+    "inmersivas": [
+        "course-660"
+    ],
+    "conceptualización": [
+        "course-660"
+    ],
+    "procesal": [
+        "course-661"
+    ],
+    "dinámicas": [
+        "course-661"
+    ],
+    "fronteras": [
+        "course-662"
+    ],
+    "juicio": [
+        "course-663"
+    ],
+    "acusatorio": [
+        "course-663"
+    ],
+    "enfermedad": [
+        "course-664"
+    ],
+    "periodontal": [
+        "course-664"
+    ],
+    "peri": [
+        "course-664"
+    ],
+    "implantar": [
+        "course-664"
+    ],
+    "clasificación": [
+        "course-664"
+    ],
+    "abordaje": [
+        "course-664"
+    ],
+    "anticorrupción": [
+        "course-665"
+    ],
+    "genialidad": [
+        "course-666"
+    ],
+    "bergoglio": [
+        "course-666"
+    ],
+    "alegría": [
+        "course-666"
+    ],
+    "rasgos": [
+        "course-666"
+    ],
+    "hombre": [
+        "course-666"
+    ],
+    "business": [
+        "course-668"
+    ],
+    "intelligence": [
+        "course-668"
+    ],
+    "antioquia": [
+        "course-670"
+    ],
+    "query": [
+        "course-674"
+    ],
+    "google": [
+        "course-674"
+    ],
+    "apis": [
+        "course-674"
+    ],
+    "análogo": [
+        "course-675"
+    ],
+    "prevalentes": [
+        "course-676"
+    ],
+    "primera": [
+        "course-676"
+    ],
+    "infancia": [
+        "course-676"
+    ],
+    "aiepi": [
+        "course-676"
+    ],
+    "bibliometría": [
+        "course-681"
+    ],
+    "científica": [
+        "course-681"
+    ],
+    "neuromarketing": [
+        "course-682"
+    ],
+    "branding": [
+        "course-682"
+    ],
+    "emprendedores": [
+        "course-682"
+    ],
+    "desbloquea": [
+        "course-682"
+    ],
+    "cirugia": [
+        "course-683"
+    ],
+    "guiada": [
+        "course-683"
+    ],
+    "matrimonial": [
+        "course-684"
+    ],
+    "cuantitativas": [
+        "course-685"
+    ],
+    "estadística": [
+        "course-685"
+    ],
+    "integrativo": [
+        "course-686"
+    ],
+    "psiconeuroinmunoendocrinología": [
+        "course-686"
+    ],
+    "pnie": [
+        "course-686"
+    ],
+    "corporativas": [
+        "course-691"
+    ],
+    "seleccionar": [
+        "course-692"
+    ],
+    "mejores": [
+        "course-692"
+    ],
+    "libros": [
+        "course-692"
+    ]
+}
