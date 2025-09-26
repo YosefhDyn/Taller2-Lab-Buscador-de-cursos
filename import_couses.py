@@ -1,18 +1,17 @@
 import csv
 import psycopg2  
 
-# Conectar a la base de datos PostgreSQL
 conn = psycopg2.connect(
-    dbname="courses",  # Cambia el nombre de la base de datos si es necesario
-    user="postgres",     # Cambia el usuario de la base de datos
-    password="olaQUE248",  # Cambia la contraseña de la base de datos
-    host="localhost",     # Cambia si tu servidor de base de datos no está en localhost
-    port="5432"           # Puerto por defecto para PostgreSQL
+    dbname="courses",  
+    user="postgres",     
+    password="olaQUE248",  
+    host="localhost",     
+    port="5432"           
 )
 
 cursor = conn.cursor()
 
-# Crear la tabla 'courses' si no existe
+# crear la tabla 'courses' si no existe :)
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS courses (
   course_id      VARCHAR(128) PRIMARY KEY,
@@ -20,32 +19,32 @@ CREATE TABLE IF NOT EXISTS courses (
 );
 """)
 
-# Función para cargar los cursos en la base de datos
+# funcion para cargar los cursos en la base de datos :|
 def load_courses_to_db(input_csv):
     with open(input_csv, 'r', encoding='utf-8') as file:
         csv_reader = csv.reader(file, delimiter='|')
-        next(csv_reader)  # Saltar la cabecera
+        next(csv_reader)  # saltar la cabecera
 
         for row in csv_reader:
             course_id = row[0]
             course_name = row[1]
 
-            # Insertar el curso en la tabla 'courses'
+            # insertar el curso en la tabla 'courses' :0
             cursor.execute("""
             INSERT INTO courses (course_id, course_name) 
             VALUES (%s, %s)
-            ON CONFLICT (course_id) DO NOTHING;  -- Evitar duplicados
+            ON CONFLICT (course_id) DO NOTHING;  -- evitar duplicados :/
             """, (course_id, course_name))
 
-    # Guardar los cambios
+    # guardar los cambios :)
     conn.commit()
 
-# Llamar a la función para cargar los cursos
-input_csv = 'output.csv'  # Ruta del archivo CSV con los cursos
+# llamar a la funcion para cargar los cursos :(
+input_csv = 'output.csv'  # ruta del archivo csv con los cursos
 load_courses_to_db(input_csv)
 
-# Cerrar la conexión a la base de datos
+# cerrar la conexion a la base de datos :|
 cursor.close()
 conn.close()
 
-print("Datos insertados exitosamente en la base de datos.")
+print("datos insertados exitosamente en la base de datos.")
