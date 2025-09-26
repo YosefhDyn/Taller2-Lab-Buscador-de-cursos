@@ -37,9 +37,6 @@ def go(n, dictionary, output):
 
     course_counter = 1  # Contador para generar IDs únicos para cada curso
 
-    # Configurar el timeout de Selenium (aumentar el tiempo de espera)
-    driver.set_page_load_timeout(120)  # Aumentamos el tiempo de espera a 120 segundos
-
     while queue and len(visited_urls) < n:
         url = queue.popleft()
         if url in visited_urls:
@@ -47,46 +44,42 @@ def go(n, dictionary, output):
         visited_urls.add(url)
         print(f"Requesting: {url}")
 
-        try:
-            # Cargar la página con Selenium
-            driver.get(url)
-            print(f"Page loaded: {url}")
-            time.sleep(15)  # Aumentamos el tiempo de espera a 15 segundos para asegurarnos de que la página cargue
+        # Cargar la página con Selenium
+        driver.get(url)
+        print(f"Page loaded: {url}")
+        time.sleep(5)  # Esperar 5 segundos para asegurarse de que la página cargue
 
-            html_content = driver.page_source
-            print(f"HTML content received: {html_content[:1000]}...")  # Muestra los primeros 1000 caracteres del HTML para depuración
+        html_content = driver.page_source
+        print(f"HTML content received: {html_content[:1000]}...")  # Muestra los primeros 1000 caracteres del HTML para depuración
 
-            soup = BeautifulSoup(html_content, "html.parser")  # Usamos el parser predeterminado de BeautifulSoup
+        soup = BeautifulSoup(html_content, "html.parser")  # Usamos el parser predeterminado de BeautifulSoup
 
-            # Extraer los enlaces de las categorías
-            category_links = extract_category_links(soup)
-            print(f"Extracted category links: {category_links}")
-            if category_links:
-                for category_link in category_links:
-                    if category_link not in visited_urls:
-                        queue.append(category_link)  # Agregar los enlaces de categorías a la cola para seguirlos
-            else:
-                print("No category links found.")
+        # Extraer los enlaces de las categorías
+        category_links = extract_category_links(soup)
+        print(f"Extracted category links: {category_links}")
+        if category_links:
+            for category_link in category_links:
+                if category_link not in visited_urls:
+                    queue.append(category_link)  # Agregar los enlaces de categorías a la cola para seguirlos
+        else:
+            print("No category links found.")
 
-            # Extraer los cursos de la página actual
-            courses = extract_courses(soup)
-            print(f"Extracted courses: {courses}")  # Verifica que se están extrayendo los cursos
-            if courses:
-                with open(output, 'a', newline='', encoding='utf-8') as output_file:
-                    csv_writer = csv.writer(output_file, delimiter='|')
-                    for course in courses:
-                        course_id = f"course-{course_counter}"  # Asigna un ID único para cada curso
-                        course_counter += 1  # Incrementa el contador para el siguiente curso
-                        # Aquí, guardamos el ID y el nombre del curso en el CSV
-                        csv_writer.writerow([course_id, course])
-                        print(f"Saving: {course_id} | {course}")  # Muestra lo que se está guardando
-                        # También agregamos el curso al índice para generar el diccionario
-                        index_course(index, course, course_id)  # Usamos el ID único del curso
-            else:
-                print("No courses found on this page.")
-        except Exception as e:
-            print(f"Error loading page {url}: {e}")
-            continue
+        # Extraer los cursos de la página actual
+        courses = extract_courses(soup)
+        print(f"Extracted courses: {courses}")  # Verifica que se están extrayendo los cursos
+        if courses:
+            with open(output, 'a', newline='', encoding='utf-8') as output_file:
+                csv_writer = csv.writer(output_file, delimiter='|')
+                for course in courses:
+                    course_id = f"course-{course_counter}"  # Asigna un ID único para cada curso
+                    course_counter += 1  # Incrementa el contador para el siguiente curso
+                    # Aquí, guardamos el ID y el nombre del curso en el CSV
+                    csv_writer.writerow([course_id, course])
+                    print(f"Saving: {course_id} | {course}")  # Muestra lo que se está guardando
+                    # También agregamos el curso al índice para generar el diccionario
+                    index_course(index, course, course_id)  # Usamos el ID único del curso
+        else:
+            print("No courses found on this page.")
 
     # Al finalizar, guardamos el diccionario de palabras clave
     print("Saving dictionary to JSON...")
@@ -99,7 +92,6 @@ def go(n, dictionary, output):
         save_index(index, output_file)  # Guarda el índice en el archivo CSV
 
     driver.quit()  # Asegurarse de cerrar el navegador al final
-
 
 # Función para extraer enlaces de categorías
 def extract_category_links(soup):
