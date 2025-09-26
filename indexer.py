@@ -1,14 +1,12 @@
 import re
 
-def construir_indice(cursos):
-    """construye el indice de cursos a partir de las descripciones :0"""
-    indice = {}
-    
-    for id_curso, descripcion in cursos.items():
-        palabras = re.findall(r'\b\w+\b', descripcion.lower())  # extrae las palabras
-        for palabra in palabras:
-            if palabra not in indice:
-                indice[palabra] = []
-            indice[palabra].append(id_curso)
-    
-    return indice
+# Función para indexar palabras clave a cursos
+def index_course(index, text, course_id):
+    words = re.findall(r'\b\w+\b', text.lower())  # Buscar palabras alfanuméricas
+    for word in words:
+        if len(word) <= 2:  # Ignorar palabras muy cortas
+            continue
+        if word not in index:
+            index[word] = []
+        if course_id not in index[word]:
+            index[word].append(course_id)
